@@ -4,14 +4,10 @@ ng00196	DNA Repeat Expansion	MeSH:D042622
 ng00196	Fragile X Syndrome	MeSH:D005600
 ng00196	Friedreich Ataxia	MeSH:D005621
 ng00196	High-Throughput Nucleotide Sequencing	MeSH:D059014
-ng00196	Humans	MeSH:D006801
 ng00196	Huntington Disease	MeSH:D006816
 ng00196	Microsatellite Repeats	MeSH:D018895
-ng00196	Myotonic Dystrophy	MeSH:D009223
-ng00196	Software	MeSH:D012984
 ng00196	Whole Genome Sequencing	MeSH:D000073336
 ng00196	Genotype	MeSH:D005838
-ng00191	Humans	MeSH:D006801
 ng00191	Alzheimer Disease	MeSH:D000544
 ng00191	Genome-Wide Association Study	MeSH:D055106
 ng00191	Brain	MeSH:D001921
@@ -25,30 +21,20 @@ ng00191	Apolipoproteins E	MeSH:D001057
 ng00191	Female	MeSH:D005260
 ng00191	Genetic Predisposition to Disease	MeSH:D020022
 ng00191	Male	MeSH:D008297
-ng00106-v1	Aged	MeSH:D000368
 ng00106-v1	Aging	MeSH:D000375
 ng00106-v1	Dementia	MeSH:D003704
 ng00106-v1	Female	MeSH:D005260
-ng00106-v1	Humans	MeSH:D006801
-ng00106-v1	India	MeSH:D007194
-ng00106-v1	Interviews as Topic	MeSH:D007407
 ng00106-v1	Longitudinal Studies	MeSH:D008137
 ng00106-v1	Male	MeSH:D008297
-ng00106-v1	Middle Aged	MeSH:D008875
 ng00106-v1	Neuropsychological Tests	MeSH:D009483
 ng00106-v1	Prospective Studies	MeSH:D011446
-ng00106-v1	Research Design	MeSH:D012107
 ng00106-v1	Cognition	MeSH:D003071
-ng00106-v1	Geriatric Assessment	MeSH:D015577
-ng00106-v1	Risk Factors	MeSH:D012307
-ng00106-v1	Alleles	MeSH:D000483
 ng00106-v1	Asian People	MeSH:D044466
 ng00106-v1	Genome-Wide Association Study	MeSH:D055106
 ng00106-v1	Genotyping Techniques	MeSH:D060005
 ng00106-v1	Memory, Episodic	MeSH:D061212
 ng00106-v1	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00106-v1	White People	MeSH:D044465
-ng00059	Aged	MeSH:D000368
 ng00059	Aged, 80 and over	MeSH:D000369
 ng00059	Aging	MeSH:D000375
 ng00059	Alzheimer Disease	MeSH:D000544
@@ -57,190 +43,117 @@ ng00059	Dementia	MeSH:D003704
 ng00059	Female	MeSH:D005260
 ng00059	Gene Expression Profiling	MeSH:D020869
 ng00059	Hippocampus	MeSH:D006624
-ng00059	Humans	MeSH:D006801
 ng00059	Male	MeSH:D008297
-ng00058	Alleles	MeSH:D000483
 ng00058	Alzheimer Disease	MeSH:D000544
-ng00058	Animals	MeSH:D000818
 ng00058	Female	MeSH:D005260
 ng00058	Genetic Predisposition to Disease	MeSH:D020022
 ng00058	Genome-Wide Association Study	MeSH:D055106
 ng00058	Haplotypes	MeSH:D006239
-ng00058	Humans	MeSH:D006801
 ng00058	Linkage Disequilibrium	MeSH:D015810
 ng00058	Male	MeSH:D008297
-ng00058	Mice	MeSH:D051379
 ng00058	Polymorphism, Single Nucleotide	MeSH:D020641
-ng00058	Proto-Oncogene Proteins	MeSH:D011518
-ng00058	Risk Factors	MeSH:D012307
-ng00058	Trans-Activators	MeSH:D015534
 ng00058	Transcription Factors	MeSH:D014157
 ng00058	Proto-Oncogene Protein Spi-1	MeSH:D000099232
 ng00058	Age of Onset	MeSH:D017668
-ng00058	Aged	MeSH:D000368
 ng00058	Aged, 80 and over	MeSH:D000369
 ng00058	Case-Control Studies	MeSH:D016022
 ng00058	Cohort Studies	MeSH:D015331
 ng00058	Genetic Loci	MeSH:D056426
-ng00058	Middle Aged	MeSH:D008875
 ng00122	Alzheimer Disease	MeSH:D000544
 ng00122	Genetic Predisposition to Disease	MeSH:D020022
 ng00122	Genome-Wide Association Study	MeSH:D055106
-ng00122	Hallucinations	MeSH:D006212
-ng00122	Humans	MeSH:D006801
-ng00122	Oxidoreductases Acting on Sulfur Group Donors	MeSH:D050862
 ng00122	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00122	Psychotic Disorders	MeSH:D011618
 ng00122	Schizophrenia	MeSH:D012559
 ng00067-v20	Alzheimer Disease	MeSH:D000544
-ng00067-v20	Data Management	MeSH:D000079803
 ng00067-v20	Genomics	MeSH:D023281
 ng00067-v20	High-Throughput Nucleotide Sequencing	MeSH:D059014
-ng00067-v20	Humans	MeSH:D006801
-ng00067-v20	Software	MeSH:D012984
-ng00067-v20	Caribbean Region	MeSH:D017691
 ng00067-v20	Ethnicity	MeSH:D005006
-ng00067-v20	Family	MeSH:D005190
 ng00067-v20	Female	MeSH:D005260
-ng00067-v20	Gene Frequency	MeSH:D005787
-ng00067-v20	Gene Pool	MeSH:D005788
 ng00067-v20	Genetic Linkage	MeSH:D008040
 ng00067-v20	Genetics, Population	MeSH:D005828
 ng00067-v20	Hispanic or Latino	MeSH:D006630
-ng00067-v20	Lod Score	MeSH:D008126
 ng00067-v20	Male	MeSH:D008297
-ng00067-v20	Models, Genetic	MeSH:D008957
 ng00067-v20	Pedigree	MeSH:D010375
-ng00067-v20	Phylogeny	MeSH:D010802
 ng00067-v20	Principal Component Analysis	MeSH:D025341
 ng00067-v20	Sequence Analysis, DNA	MeSH:D017422
-ng00067-v20	Algorithms	MeSH:D000465
 ng00067-v20	Genome-Wide Association Study	MeSH:D055106
 ng00067-v20	Genotype	MeSH:D005838
 ng00067-v20	Genotyping Techniques	MeSH:D060005
 ng00067-v20	Polymorphism, Genetic	MeSH:D011110
-ng00067-v20	Quality Control	MeSH:D011786
 ng00067-v20	Whole Genome Sequencing	MeSH:D000073336
-ng00067-v20	Databases, Genetic	MeSH:D030541
 ng00067-v20	Genetic Predisposition to Disease	MeSH:D020022
-ng00067-v20	Genome	MeSH:D016678
 ng00067-v20	Molecular Sequence Annotation	MeSH:D058977
 ng00067-v20	Polymorphism, Single Nucleotide	MeSH:D020641
-ng00067-v20	Aged	MeSH:D000368
 ng00067-v20	Aged, 80 and over	MeSH:D000369
 ng00067-v20	Case-Control Studies	MeSH:D016022
 ng00067-v20	Cohort Studies	MeSH:D015331
 ng00067-v20	Dementia	MeSH:D003704
 ng00067-v20	Genetic Variation	MeSH:D014644
-ng00067-v20	Nerve Tissue Proteins	MeSH:D009419
-ng00067-v20	Prevalence	MeSH:D015995
 ng00067-v19	Alzheimer Disease	MeSH:D000544
-ng00067-v19	Data Management	MeSH:D000079803
 ng00067-v19	Genomics	MeSH:D023281
 ng00067-v19	High-Throughput Nucleotide Sequencing	MeSH:D059014
-ng00067-v19	Humans	MeSH:D006801
-ng00067-v19	Software	MeSH:D012984
-ng00067-v19	Caribbean Region	MeSH:D017691
 ng00067-v19	Ethnicity	MeSH:D005006
-ng00067-v19	Family	MeSH:D005190
 ng00067-v19	Female	MeSH:D005260
-ng00067-v19	Gene Frequency	MeSH:D005787
-ng00067-v19	Gene Pool	MeSH:D005788
 ng00067-v19	Genetic Linkage	MeSH:D008040
 ng00067-v19	Genetics, Population	MeSH:D005828
 ng00067-v19	Hispanic or Latino	MeSH:D006630
-ng00067-v19	Lod Score	MeSH:D008126
 ng00067-v19	Male	MeSH:D008297
-ng00067-v19	Models, Genetic	MeSH:D008957
 ng00067-v19	Pedigree	MeSH:D010375
-ng00067-v19	Phylogeny	MeSH:D010802
 ng00067-v19	Principal Component Analysis	MeSH:D025341
 ng00067-v19	Sequence Analysis, DNA	MeSH:D017422
-ng00067-v19	Algorithms	MeSH:D000465
 ng00067-v19	Genome-Wide Association Study	MeSH:D055106
 ng00067-v19	Genotype	MeSH:D005838
 ng00067-v19	Genotyping Techniques	MeSH:D060005
 ng00067-v19	Polymorphism, Genetic	MeSH:D011110
-ng00067-v19	Quality Control	MeSH:D011786
 ng00067-v19	Whole Genome Sequencing	MeSH:D000073336
-ng00067-v19	Databases, Genetic	MeSH:D030541
 ng00067-v19	Genetic Predisposition to Disease	MeSH:D020022
-ng00067-v19	Genome	MeSH:D016678
 ng00067-v19	Molecular Sequence Annotation	MeSH:D058977
 ng00067-v19	Polymorphism, Single Nucleotide	MeSH:D020641
-ng00067-v19	Aged	MeSH:D000368
 ng00067-v19	Aged, 80 and over	MeSH:D000369
 ng00067-v19	Case-Control Studies	MeSH:D016022
 ng00067-v19	Cohort Studies	MeSH:D015331
 ng00067-v19	Dementia	MeSH:D003704
 ng00067-v19	Genetic Variation	MeSH:D014644
-ng00067-v19	Nerve Tissue Proteins	MeSH:D009419
-ng00067-v19	Prevalence	MeSH:D015995
-ng00185	Humans	MeSH:D006801
 ng00185	DNA Methylation	MeSH:D019175
 ng00185	Female	MeSH:D005260
 ng00185	Saliva	MeSH:D012463
 ng00185	Leukocytes, Mononuclear	MeSH:D007963
 ng00185	Aging	MeSH:D000375
 ng00185	Male	MeSH:D008297
-ng00185	Adult	MeSH:D000328
 ng00185	Epigenesis, Genetic	MeSH:D044127
-ng00185	Twins, Monozygotic	MeSH:D014430
-ng00185	Blood Buffy Coat	MeSH:D058621
-ng00185	Twins, Dizygotic	MeSH:D014429
 ng00120	Alzheimer Disease	MeSH:D000544
 ng00120	Brain	MeSH:D001921
 ng00120	Gene Expression Regulation	MeSH:D005786
 ng00120	Genetic Predisposition to Disease	MeSH:D020022
 ng00120	Genome-Wide Association Study	MeSH:D055106
-ng00120	Humans	MeSH:D006801
 ng00120	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00120	Quantitative Trait Loci	MeSH:D040641
 ng00176	Comparative Genomic Hybridization	MeSH:D055028
 ng00176	DNA Copy Number Variations	MeSH:D056915
-ng00176	Genetic Testing	MeSH:D005820
 ng00176	High-Throughput Nucleotide Sequencing	MeSH:D059014
-ng00176	Humans	MeSH:D006801
 ng00176	Multiplex Polymerase Chain Reaction	MeSH:D060885
-ng00176	Sensitivity and Specificity	MeSH:D012680
 ng00176	Exome Sequencing	MeSH:D000073359
-ng00176	Workflow	MeSH:D057188
-ng00187	Humans	MeSH:D006801
 ng00187	Cognition	MeSH:D003071
 ng00187	Female	MeSH:D005260
 ng00187	Male	MeSH:D008297
-ng00187	Infant	MeSH:D007223
-ng00187	Adult	MeSH:D000328
-ng00187	Child, Preschool	MeSH:D002675
 ng00187	Longitudinal Studies	MeSH:D008137
-ng00187	Child	MeSH:D002648
-ng00187	Adolescent	MeSH:D000293
-ng00187	Young Adult	MeSH:D055815
-ng00187	Twins	MeSH:D014427
-ng00187	Twins, Dizygotic	MeSH:D014429
-ng00187	Colorado	MeSH:D003120
-ng00187	Twins, Monozygotic	MeSH:D014430
 ng00187	Genomics	MeSH:D023281
-ng00186	Humans	MeSH:D006801
 ng00186	Alzheimer Disease	MeSH:D000544
 ng00186	Genome-Wide Association Study	MeSH:D055106
 ng00186	tau Proteins	MeSH:D016875
 ng00186	Amyloid beta-Peptides	MeSH:D016229
 ng00186	Biomarkers	MeSH:D015415
-ng00186	Peptide Fragments	MeSH:D010446
-ng00189	Humans	MeSH:D006801
 ng00189	Cognitive Dysfunction	MeSH:D060825
 ng00189	Genome-Wide Association Study	MeSH:D055106
 ng00189	Male	MeSH:D008297
 ng00189	Female	MeSH:D005260
-ng00189	Aged	MeSH:D000368
 ng00189	Dementia	MeSH:D003704
 ng00189	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00189	Neuropsychological Tests	MeSH:D009483
 ng00189	Apolipoproteins E	MeSH:D001057
 ng00189	Aged, 80 and over	MeSH:D000369
 ng00189	Alzheimer Disease	MeSH:D000544
-ng00179	Humans	MeSH:D006801
 ng00179	Alzheimer Disease	MeSH:D000544
 ng00179	Genome-Wide Association Study	MeSH:D055106
 ng00179	Genetic Predisposition to Disease	MeSH:D020022
@@ -249,8 +162,6 @@ ng00179	Linkage Disequilibrium	MeSH:D015810
 ng00179	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00179	Female	MeSH:D005260
 ng00179	Male	MeSH:D008297
-ng00179	Aged	MeSH:D000368
-ng00183	Humans	MeSH:D006801
 ng00183	Neurons	MeSH:D009474
 ng00183	Chronic Traumatic Encephalopathy	MeSH:D000070627
 ng00183	Prefrontal Cortex	MeSH:D017397
@@ -258,12 +169,8 @@ ng00183	Single-Cell Analysis	MeSH:D059010
 ng00183	Male	MeSH:D008297
 ng00183	Female	MeSH:D005260
 ng00183	Whole Genome Sequencing	MeSH:D000073336
-ng00183	Middle Aged	MeSH:D008875
-ng00183	Aged	MeSH:D000368
 ng00183	Alzheimer Disease	MeSH:D000544
-ng00183	Adult	MeSH:D000328
 ng00183	Polymorphism, Single Nucleotide	MeSH:D020641
-ng00180	Humans	MeSH:D006801
 ng00180	Diabetes Mellitus, Type 2	MeSH:D003924
 ng00180	Quantitative Trait Loci	MeSH:D040641
 ng00180	Black People	MeSH:D044383
@@ -277,10 +184,8 @@ ng00180	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00180	Male	MeSH:D008297
 ng00180	Female	MeSH:D005260
 ng00180	Genotype	MeSH:D005838
-ng00182	Aged	MeSH:D000368
 ng00182	Aged, 80 and over	MeSH:D000369
 ng00182	Female	MeSH:D005260
-ng00182	Humans	MeSH:D006801
 ng00182	Male	MeSH:D008297
 ng00182	Alzheimer Disease	MeSH:D000544
 ng00182	Apolipoproteins E	MeSH:D001057
@@ -288,10 +193,7 @@ ng00182	East Asian People	MeSH:D000095225
 ng00182	Genetic Predisposition to Disease	MeSH:D020022
 ng00182	Genome-Wide Association Study	MeSH:D055106
 ng00182	Polymorphism, Single Nucleotide	MeSH:D020641
-ng00182	Republic of Korea	MeSH:D056910
-ng00182	rho-Associated Kinases	MeSH:D054460
 ng00182	Whole Genome Sequencing	MeSH:D000073336
-ng00175	Humans	MeSH:D006801
 ng00175	Genome-Wide Association Study	MeSH:D055106
 ng00175	Endophenotypes	MeSH:D058068
 ng00175	Genetic Predisposition to Disease	MeSH:D020022
@@ -300,12 +202,9 @@ ng00175	Quantitative Trait Loci	MeSH:D040641
 ng00175	Male	MeSH:D008297
 ng00175	Female	MeSH:D005260
 ng00175	Alzheimer Disease	MeSH:D000544
-ng00175	Aged	MeSH:D000368
 ng00175	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00175	Aged, 80 and over	MeSH:D000369
-ng00175	Risk Factors	MeSH:D012307
 ng00175	Neuropathology	MeSH:D000069338
-ng00177	Humans	MeSH:D006801
 ng00177	Male	MeSH:D008297
 ng00177	Alzheimer Disease	MeSH:D000544
 ng00177	Black or African American	MeSH:D001741
@@ -315,97 +214,62 @@ ng00177	Genome-Wide Association Study	MeSH:D055106
 ng00177	Hispanic or Latino	MeSH:D006630
 ng00177	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00177	White	MeSH:D000095223
-ng00177	Aged	MeSH:D000368
 ng00177	Amyloid beta-Peptides	MeSH:D016229
 ng00177	Case-Control Studies	MeSH:D016022
 ng00177	Female	MeSH:D005260
-ng00177	Genetic Testing	MeSH:D005820
 ng00177	Haplotypes	MeSH:D006239
 ng00177	Immunity	MeSH:D007109
 ng00177	Lipid Metabolism	MeSH:D050356
 ng00177	Lipids	MeSH:D008055
 ng00177	tau Proteins	MeSH:D016875
-ng00177	Adaptor Proteins, Signal Transducing	MeSH:D048868
 ng00177	Age of Onset	MeSH:D017668
 ng00177	Aged, 80 and over	MeSH:D000369
-ng00177	Antigens, CD	MeSH:D015703
-ng00177	Antigens, Differentiation, Myelomonocytic	MeSH:D015214
 ng00177	Cohort Studies	MeSH:D015331
-ng00177	Cytoskeletal Proteins	MeSH:D003598
-ng00177	Databases, Genetic	MeSH:D030541
 ng00177	Genetic Variation	MeSH:D014644
-ng00177	Membrane Proteins	MeSH:D008565
-ng00177	Multigene Family	MeSH:D005810
-ng00177	Receptor, EphA1	MeSH:D036082
-ng00177	Sialic Acid Binding Ig-like Lectin 3	MeSH:D063268
-ng00075	Aged	MeSH:D000368
 ng00075	Alzheimer Disease	MeSH:D000544
 ng00075	Amyloid beta-Peptides	MeSH:D016229
 ng00075	Case-Control Studies	MeSH:D016022
 ng00075	Female	MeSH:D005260
 ng00075	Genetic Loci	MeSH:D056426
 ng00075	Genetic Predisposition to Disease	MeSH:D020022
-ng00075	Genetic Testing	MeSH:D005820
 ng00075	Genome-Wide Association Study	MeSH:D055106
 ng00075	Haplotypes	MeSH:D006239
-ng00075	Humans	MeSH:D006801
 ng00075	Immunity	MeSH:D007109
 ng00075	Lipid Metabolism	MeSH:D050356
 ng00075	Lipids	MeSH:D008055
 ng00075	Male	MeSH:D008297
 ng00075	tau Proteins	MeSH:D016875
-ng00178	Humans	MeSH:D006801
 ng00178	Amyotrophic Lateral Sclerosis	MeSH:D000690
 ng00178	Cerebellum	MeSH:D002531
 ng00178	Male	MeSH:D008297
 ng00178	Female	MeSH:D005260
-ng00178	Middle Aged	MeSH:D008875
-ng00178	Aged	MeSH:D000368
 ng00178	Transcriptome	MeSH:D059467
 ng00178	Brain	MeSH:D001921
 ng00178	Gene Expression Profiling	MeSH:D020869
 ng00178	Motor Cortex	MeSH:D009044
 ng00178	Aged, 80 and over	MeSH:D000369
 ng00178	RNA	MeSH:D012313
-ng00035	Aged	MeSH:D000368
 ng00035	Aged, 80 and over	MeSH:D000369
 ng00035	Alzheimer Disease	MeSH:D000544
 ng00035	Amyloid beta-Peptides	MeSH:D016229
 ng00035	Apolipoproteins E	MeSH:D001057
 ng00035	Case-Control Studies	MeSH:D016022
-ng00035	Chromosomes, Human, Pair 3	MeSH:D002893
-ng00035	Chromosomes, Human, Pair 6	MeSH:D002896
 ng00035	DNA-Binding Proteins	MeSH:D004268
 ng00035	Female	MeSH:D005260
 ng00035	Genome-Wide Association Study	MeSH:D055106
 ng00035	Genotype	MeSH:D005838
-ng00035	Humans	MeSH:D006801
 ng00035	Male	MeSH:D008297
-ng00035	Membrane Glycoproteins	MeSH:D008562
-ng00035	Middle Aged	MeSH:D008875
-ng00035	Muscle Proteins	MeSH:D009124
-ng00035	Peptide Fragments	MeSH:D010446
 ng00035	Phenotype	MeSH:D010641
-ng00035	Phosphorylation	MeSH:D010766
 ng00035	Polymorphism, Single Nucleotide	MeSH:D020641
-ng00035	Receptors, Immunologic	MeSH:D011971
-ng00035	Repressor Proteins	MeSH:D012097
-ng00035	Risk Factors	MeSH:D012307
-ng00035	Serine	MeSH:D012694
-ng00035	Trans-Activators	MeSH:D015534
 ng00035	Transcription Factors	MeSH:D014157
 ng00035	tau Proteins	MeSH:D016875
 ng00100	Black or African American	MeSH:D001741
-ng00100	Aged	MeSH:D000368
 ng00100	Alzheimer Disease	MeSH:D000544
 ng00100	Female	MeSH:D005260
 ng00100	Genetic Loci	MeSH:D056426
 ng00100	Genetic Predisposition to Disease	MeSH:D020022
 ng00100	Genome-Wide Association Study	MeSH:D055106
-ng00100	Humans	MeSH:D006801
 ng00100	Male	MeSH:D008297
-ng00100	Middle Aged	MeSH:D008875
-ng00095	Aged	MeSH:D000368
 ng00095	Aged, 80 and over	MeSH:D000369
 ng00095	Aging	MeSH:D000375
 ng00095	Alzheimer Disease	MeSH:D000544
@@ -413,12 +277,9 @@ ng00095	Autopsy	MeSH:D001344
 ng00095	Brain	MeSH:D001921
 ng00095	Epidemiologic Studies	MeSH:D016021
 ng00095	Female	MeSH:D005260
-ng00095	Humans	MeSH:D006801
 ng00095	Longitudinal Studies	MeSH:D008137
 ng00095	Male	MeSH:D008297
 ng00095	Neuropsychological Tests	MeSH:D009483
-ng00095	Research Design	MeSH:D012107
-ng00095	Risk Factors	MeSH:D012307
 ng00095	Cognition	MeSH:D003071
 ng00095	Cognition Disorders	MeSH:D003072
 ng00095	Dementia	MeSH:D003704
@@ -427,51 +288,41 @@ ng00095	Amyloid beta-Peptides	MeSH:D016229
 ng00095	Case-Control Studies	MeSH:D016022
 ng00095	Genetic Loci	MeSH:D056426
 ng00095	Genetic Predisposition to Disease	MeSH:D020022
-ng00095	Genetic Testing	MeSH:D005820
 ng00095	Genome-Wide Association Study	MeSH:D055106
 ng00095	Haplotypes	MeSH:D006239
 ng00095	Immunity	MeSH:D007109
 ng00095	Lipid Metabolism	MeSH:D050356
 ng00095	Lipids	MeSH:D008055
 ng00095	tau Proteins	MeSH:D016875
-ng00093	Aged	MeSH:D000368
 ng00093	Alzheimer Disease	MeSH:D000544
 ng00093	Amyloid beta-Peptides	MeSH:D016229
 ng00093	Case-Control Studies	MeSH:D016022
 ng00093	Female	MeSH:D005260
 ng00093	Genetic Loci	MeSH:D056426
 ng00093	Genetic Predisposition to Disease	MeSH:D020022
-ng00093	Genetic Testing	MeSH:D005820
 ng00093	Genome-Wide Association Study	MeSH:D055106
 ng00093	Haplotypes	MeSH:D006239
-ng00093	Humans	MeSH:D006801
 ng00093	Immunity	MeSH:D007109
 ng00093	Lipid Metabolism	MeSH:D050356
 ng00093	Lipids	MeSH:D008055
 ng00093	Male	MeSH:D008297
 ng00093	tau Proteins	MeSH:D016875
-ng00087	Aged	MeSH:D000368
 ng00087	Alzheimer Disease	MeSH:D000544
 ng00087	Amyloid beta-Peptides	MeSH:D016229
 ng00087	Case-Control Studies	MeSH:D016022
 ng00087	Female	MeSH:D005260
 ng00087	Genetic Loci	MeSH:D056426
 ng00087	Genetic Predisposition to Disease	MeSH:D020022
-ng00087	Genetic Testing	MeSH:D005820
 ng00087	Genome-Wide Association Study	MeSH:D055106
 ng00087	Haplotypes	MeSH:D006239
-ng00087	Humans	MeSH:D006801
 ng00087	Immunity	MeSH:D007109
 ng00087	Lipid Metabolism	MeSH:D050356
 ng00087	Lipids	MeSH:D008055
 ng00087	Male	MeSH:D008297
 ng00087	tau Proteins	MeSH:D016875
-ng00082	Humans	MeSH:D006801
 ng00082	Alzheimer Disease	MeSH:D000544
 ng00082	Neurodegenerative Diseases	MeSH:D019636
 ng00082	Apolipoproteins E	MeSH:D001057
-ng00082	Risk Factors	MeSH:D012307
-ng00052	Aged	MeSH:D000368
 ng00052	Aged, 80 and over	MeSH:D000369
 ng00052	Alzheimer Disease	MeSH:D000544
 ng00052	Apolipoprotein E4	MeSH:D053327
@@ -480,14 +331,10 @@ ng00052	Biomarkers	MeSH:D015415
 ng00052	Clusterin	MeSH:D051152
 ng00052	Endophenotypes	MeSH:D058068
 ng00052	Female	MeSH:D005260
-ng00052	Gene Ontology	MeSH:D063990
 ng00052	Genome-Wide Association Study	MeSH:D055106
-ng00052	Humans	MeSH:D006801
 ng00052	Immunity	MeSH:D007109
 ng00052	Male	MeSH:D008297
 ng00052	Nerve Degeneration	MeSH:D009410
-ng00052	Wound Healing	MeSH:D014945
-ng00050	Aged	MeSH:D000368
 ng00050	Aged, 80 and over	MeSH:D000369
 ng00050	Alzheimer Disease	MeSH:D000544
 ng00050	Apolipoprotein E4	MeSH:D053327
@@ -496,67 +343,35 @@ ng00050	Biomarkers	MeSH:D015415
 ng00050	Clusterin	MeSH:D051152
 ng00050	Endophenotypes	MeSH:D058068
 ng00050	Female	MeSH:D005260
-ng00050	Gene Ontology	MeSH:D063990
 ng00050	Genome-Wide Association Study	MeSH:D055106
-ng00050	Humans	MeSH:D006801
 ng00050	Immunity	MeSH:D007109
 ng00050	Male	MeSH:D008297
 ng00050	Nerve Degeneration	MeSH:D009410
-ng00050	Wound Healing	MeSH:D014945
-ng00049	Aged	MeSH:D000368
 ng00049	Aged, 80 and over	MeSH:D000369
 ng00049	Alzheimer Disease	MeSH:D000544
 ng00049	Amyloid beta-Peptides	MeSH:D016229
 ng00049	Apolipoproteins E	MeSH:D001057
 ng00049	Case-Control Studies	MeSH:D016022
-ng00049	Chromosomes, Human, Pair 3	MeSH:D002893
-ng00049	Chromosomes, Human, Pair 6	MeSH:D002896
 ng00049	DNA-Binding Proteins	MeSH:D004268
 ng00049	Female	MeSH:D005260
 ng00049	Genome-Wide Association Study	MeSH:D055106
 ng00049	Genotype	MeSH:D005838
-ng00049	Humans	MeSH:D006801
 ng00049	Male	MeSH:D008297
-ng00049	Membrane Glycoproteins	MeSH:D008562
-ng00049	Middle Aged	MeSH:D008875
-ng00049	Muscle Proteins	MeSH:D009124
-ng00049	Peptide Fragments	MeSH:D010446
 ng00049	Phenotype	MeSH:D010641
-ng00049	Phosphorylation	MeSH:D010766
 ng00049	Polymorphism, Single Nucleotide	MeSH:D020641
-ng00049	Receptors, Immunologic	MeSH:D011971
-ng00049	Repressor Proteins	MeSH:D012097
-ng00049	Risk Factors	MeSH:D012307
-ng00049	Serine	MeSH:D012694
-ng00049	Trans-Activators	MeSH:D015534
 ng00049	Transcription Factors	MeSH:D014157
 ng00049	tau Proteins	MeSH:D016875
-ng00030	Adaptor Proteins, Signal Transducing	MeSH:D048868
 ng00030	Age of Onset	MeSH:D017668
-ng00030	Aged	MeSH:D000368
 ng00030	Aged, 80 and over	MeSH:D000369
 ng00030	Alzheimer Disease	MeSH:D000544
-ng00030	Antigens, CD	MeSH:D015703
-ng00030	Antigens, Differentiation, Myelomonocytic	MeSH:D015214
 ng00030	Cohort Studies	MeSH:D015331
-ng00030	Cytoskeletal Proteins	MeSH:D003598
-ng00030	Databases, Genetic	MeSH:D030541
 ng00030	Female	MeSH:D005260
 ng00030	Genetic Predisposition to Disease	MeSH:D020022
 ng00030	Genetic Variation	MeSH:D014644
 ng00030	Genome-Wide Association Study	MeSH:D055106
-ng00030	Humans	MeSH:D006801
 ng00030	Male	MeSH:D008297
-ng00030	Membrane Proteins	MeSH:D008565
-ng00030	Multigene Family	MeSH:D005810
 ng00030	Polymorphism, Single Nucleotide	MeSH:D020641
-ng00030	Receptor, EphA1	MeSH:D036082
-ng00030	Sialic Acid Binding Ig-like Lectin 3	MeSH:D063268
-ng00030	Chromosomes, Human	MeSH:D002877
 ng00030	Clusterin	MeSH:D051152
-ng00030	Genome, Human	MeSH:D015894
-ng00030	Monomeric Clathrin Assembly Proteins	MeSH:D034041
-ng00029	Aged	MeSH:D000368
 ng00029	Aged, 80 and over	MeSH:D000369
 ng00029	Aging	MeSH:D000375
 ng00029	Alzheimer Disease	MeSH:D000544
@@ -564,79 +379,49 @@ ng00029	Autopsy	MeSH:D001344
 ng00029	Brain	MeSH:D001921
 ng00029	Epidemiologic Studies	MeSH:D016021
 ng00029	Female	MeSH:D005260
-ng00029	Humans	MeSH:D006801
 ng00029	Longitudinal Studies	MeSH:D008137
 ng00029	Male	MeSH:D008297
 ng00029	Neuropsychological Tests	MeSH:D009483
-ng00029	Research Design	MeSH:D012107
-ng00029	Risk Factors	MeSH:D012307
 ng00029	Cognition	MeSH:D003071
 ng00029	Cognition Disorders	MeSH:D003072
 ng00029	Dementia	MeSH:D003704
 ng00029	Memory	MeSH:D008568
 ng00029	Apolipoproteins E	MeSH:D001057
-ng00029	Cyclic Nucleotide Phosphodiesterases, Type 7	MeSH:D054708
 ng00029	Genetic Variation	MeSH:D014644
 ng00029	Genome-Wide Association Study	MeSH:D055106
-ng00029	Mitochondrial Proteins	MeSH:D024101
-ng00026	Adaptor Proteins, Signal Transducing	MeSH:D048868
 ng00026	Age of Onset	MeSH:D017668
-ng00026	Aged	MeSH:D000368
 ng00026	Aged, 80 and over	MeSH:D000369
 ng00026	Alzheimer Disease	MeSH:D000544
-ng00026	Antigens, CD	MeSH:D015703
-ng00026	Antigens, Differentiation, Myelomonocytic	MeSH:D015214
 ng00026	Cohort Studies	MeSH:D015331
-ng00026	Cytoskeletal Proteins	MeSH:D003598
-ng00026	Databases, Genetic	MeSH:D030541
 ng00026	Female	MeSH:D005260
 ng00026	Genetic Predisposition to Disease	MeSH:D020022
 ng00026	Genetic Variation	MeSH:D014644
 ng00026	Genome-Wide Association Study	MeSH:D055106
-ng00026	Humans	MeSH:D006801
 ng00026	Male	MeSH:D008297
-ng00026	Membrane Proteins	MeSH:D008565
-ng00026	Multigene Family	MeSH:D005810
 ng00026	Polymorphism, Single Nucleotide	MeSH:D020641
-ng00026	Receptor, EphA1	MeSH:D036082
-ng00026	Sialic Acid Binding Ig-like Lectin 3	MeSH:D063268
 ng00026	Apolipoproteins E	MeSH:D001057
-ng00026	Cadherins	MeSH:D015820
 ng00026	White People	MeSH:D044465
 ng00020	Alzheimer Disease	MeSH:D000544
 ng00020	Apolipoproteins E	MeSH:D001057
 ng00020	Case-Control Studies	MeSH:D016022
 ng00020	Chromosome Mapping	MeSH:D002874
-ng00020	Chromosomes, Human, Pair 16	MeSH:D002885
-ng00020	Chromosomes, Human, Pair 19	MeSH:D002888
-ng00020	Chromosomes, Human, Pair 22	MeSH:D002892
-ng00020	Chromosomes, Human, Pair 7	MeSH:D002897
 ng00020	Genetic Linkage	MeSH:D008040
 ng00020	Genetic Predisposition to Disease	MeSH:D020022
 ng00020	Genetic Variation	MeSH:D014644
-ng00020	Genome, Human	MeSH:D015894
-ng00020	Humans	MeSH:D006801
-ng00020	National Institute on Aging (U.S.)	MeSH:D054561
 ng00020	Polymorphism, Single Nucleotide	MeSH:D020641
-ng00020	United States	MeSH:D014481
-ng00174	Humans	MeSH:D006801
 ng00174	Alzheimer Disease	MeSH:D000544
 ng00174	Male	MeSH:D008297
 ng00174	Female	MeSH:D005260
 ng00174	Aged, 80 and over	MeSH:D000369
 ng00174	Neurons	MeSH:D009474
-ng00174	Aged	MeSH:D000368
 ng00174	Microglia	MeSH:D017628
 ng00174	Temporal Lobe	MeSH:D013702
-ng00174	Atlases as Topic	MeSH:D001271
 ng00174	Disease Progression	MeSH:D018450
 ng00174	Astrocytes	MeSH:D001253
-ng00169	Humans	MeSH:D006801
 ng00169	Supranuclear Palsy, Progressive	MeSH:D013494
 ng00169	Genome-Wide Association Study	MeSH:D055106
 ng00169	Quantitative Trait Loci	MeSH:D040641
 ng00169	Genetic Predisposition to Disease	MeSH:D020022
-ng00169	Aged	MeSH:D000368
 ng00169	Male	MeSH:D008297
 ng00169	Female	MeSH:D005260
 ng00169	tau Proteins	MeSH:D016875
@@ -645,49 +430,32 @@ ng00169	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00169	Neuroglia	MeSH:D009457
 ng00169	Aged, 80 and over	MeSH:D000369
 ng00169	Oligodendroglia	MeSH:D009836
-ng00169	Middle Aged	MeSH:D008875
 ng00169	Alzheimer Disease	MeSH:D000544
 ng00169	Case-Control Studies	MeSH:D016022
-ng00169	Myelin Proteins	MeSH:D009185
-ng00169	Chromosomes, Human	MeSH:D002877
 ng00169	Cohort Studies	MeSH:D015331
 ng00169	Genetic Loci	MeSH:D056426
 ng00169	Genetic Variation	MeSH:D014644
-ng00169	Prognosis	MeSH:D011379
-ng00169	Risk Factors	MeSH:D012307
 ng00169	Tauopathies	MeSH:D024801
-ng00169	Dual-Specificity Phosphatases	MeSH:D054637
 ng00169	Genotype	MeSH:D005838
-ng00169	Mitogen-Activated Protein Kinase Phosphatases	MeSH:D054639
-ng00169	Organic Anion Transporters	MeSH:D027361
 ng00169	Neurodegenerative Diseases	MeSH:D019636
-ng00166	Humans	MeSH:D006801
 ng00166	Alzheimer Disease	MeSH:D000544
 ng00166	Whole Genome Sequencing	MeSH:D000073336
 ng00166	Apolipoproteins E	MeSH:D001057
 ng00166	Male	MeSH:D008297
 ng00166	Female	MeSH:D005260
-ng00166	Tumor Suppressor Proteins	MeSH:D025521
 ng00166	Presenilin-1	MeSH:D053764
-ng00166	Aged	MeSH:D000368
 ng00166	Genetic Predisposition to Disease	MeSH:D020022
-ng00166	Mitochondrial Precursor Protein Import Complex Proteins	MeSH:D000090622
 ng00166	Genetic Variation	MeSH:D014644
-ng00166	Adaptor Proteins, Signal Transducing	MeSH:D048868
-ng00166	Membrane Transport Proteins	MeSH:D026901
 ng00166	Nuclear Proteins	MeSH:D009687
 ng00166	Haplotypes	MeSH:D006239
-ng00165	Humans	MeSH:D006801
 ng00165	Alzheimer Disease	MeSH:D000544
 ng00165	Genome-Wide Association Study	MeSH:D055106
 ng00165	Whole Genome Sequencing	MeSH:D000073336
 ng00165	Female	MeSH:D005260
 ng00165	Male	MeSH:D008297
 ng00165	Genetic Predisposition to Disease	MeSH:D020022
-ng00165	Aged	MeSH:D000368
 ng00165	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00165	Genetic Variation	MeSH:D014644
-ng00162	Humans	MeSH:D006801
 ng00162	Aging	MeSH:D000375
 ng00162	Chromatin	MeSH:D002843
 ng00162	Mutation	MeSH:D009154
@@ -698,62 +466,43 @@ ng00162	Whole Genome Sequencing	MeSH:D000073336
 ng00162	Brain	MeSH:D001921
 ng00162	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00162	INDEL Mutation	MeSH:D054643
-ng00162	Biological Specimen Banks	MeSH:D018070
 ng00162	Oligodendrocyte Precursor Cells	MeSH:D000073637
-ng00146	Aged	MeSH:D000368
 ng00146	Alzheimer Disease	MeSH:D000544
 ng00146	Cerebral Cortex	MeSH:D002540
 ng00146	Cerebral Infarction	MeSH:D002544
 ng00146	Dementia, Vascular	MeSH:D015140
 ng00146	Female	MeSH:D005260
-ng00146	Humans	MeSH:D006801
 ng00146	Magnetic Resonance Imaging	MeSH:D008279
 ng00146	Male	MeSH:D008297
 ng00146	Memory	MeSH:D008568
-ng00146	Middle Aged	MeSH:D008875
 ng00146	Neuropsychological Tests	MeSH:D009483
 ng00146	Cognitive Dysfunction	MeSH:D060825
 ng00146	Cross-Sectional Studies	MeSH:D003430
 ng00146	Dementia	MeSH:D003704
-ng00146	Language	MeSH:D007802
-ng00146	Prognosis	MeSH:D011379
 ng00146	Prospective Studies	MeSH:D011446
 ng00146	Aged, 80 and over	MeSH:D000369
 ng00146	Atrophy	MeSH:D001284
 ng00146	Cognition Disorders	MeSH:D003072
 ng00146	Cohort Studies	MeSH:D015331
-ng00146	Heart Diseases	MeSH:D006331
-ng00146	Imaging, Three-Dimensional	MeSH:D021621
-ng00146	Natriuretic Peptide, Brain	MeSH:D020097
-ng00146	Peptide Fragments	MeSH:D010446
-ng00146	Troponin T	MeSH:D020107
-ng00147	Aged	MeSH:D000368
 ng00147	Aged, 80 and over	MeSH:D000369
 ng00147	Alzheimer Disease	MeSH:D000544
 ng00147	Amyloid	MeSH:D000682
 ng00147	Cognitive Dysfunction	MeSH:D060825
 ng00147	Dementia	MeSH:D003704
-ng00147	Diagnosis, Differential	MeSH:D003937
 ng00147	Female	MeSH:D005260
-ng00147	Humans	MeSH:D006801
 ng00147	Longitudinal Studies	MeSH:D008137
 ng00147	Male	MeSH:D008297
-ng00147	Medicare	MeSH:D006278
-ng00147	Nootropic Agents	MeSH:D018697
 ng00147	Plaque, Amyloid	MeSH:D058225
 ng00147	Positron-Emission Tomography	MeSH:D049268
-ng00147	United States	MeSH:D014481
 ng00161	Alzheimer Disease	MeSH:D000544
 ng00161	Cognition	MeSH:D003071
 ng00161	Cognitive Dysfunction	MeSH:D060825
 ng00161	Female	MeSH:D005260
 ng00161	Genetic Predisposition to Disease	MeSH:D020022
 ng00161	Genome-Wide Association Study	MeSH:D055106
-ng00161	Humans	MeSH:D006801
 ng00161	Male	MeSH:D008297
 ng00161	Multiple Sclerosis	MeSH:D009103
 ng00161	Sex Characteristics	MeSH:D012727
-ng00158	Aged	MeSH:D000368
 ng00158	Aged, 80 and over	MeSH:D000369
 ng00158	Alzheimer Disease	MeSH:D000544
 ng00158	Amyloid beta-Peptides	MeSH:D016229
@@ -761,7 +510,6 @@ ng00158	Cohort Studies	MeSH:D015331
 ng00158	Female	MeSH:D005260
 ng00158	Genetic Predisposition to Disease	MeSH:D020022
 ng00158	Genome-Wide Association Study	MeSH:D055106
-ng00158	Humans	MeSH:D006801
 ng00158	Male	MeSH:D008297
 ng00158	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00158	Sex Characteristics	MeSH:D012727
@@ -773,20 +521,14 @@ ng00157	Amyloidosis	MeSH:D000686
 ng00157	Apolipoproteins E	MeSH:D001057
 ng00157	Biomarkers	MeSH:D015415
 ng00157	Brain	MeSH:D001921
-ng00157	Claudins	MeSH:D057167
 ng00157	Female	MeSH:D005260
 ng00157	Genome-Wide Association Study	MeSH:D055106
 ng00157	Genotype	MeSH:D005838
-ng00157	Humans	MeSH:D006801
 ng00157	Male	MeSH:D008297
-ng00157	Muscle Proteins	MeSH:D009124
 ng00157	Mutation	MeSH:D009154
-ng00157	Peptide Fragments	MeSH:D010446
-ng00157	Serpins	MeSH:D015843
 ng00157	Sex Factors	MeSH:D012737
 ng00157	Transcription Factors	MeSH:D014157
 ng00157	tau Proteins	MeSH:D016875
-ng00103	Aged	MeSH:D000368
 ng00103	Aged, 80 and over	MeSH:D000369
 ng00103	Alzheimer Disease	MeSH:D000544
 ng00103	Amyloidosis	MeSH:D000686
@@ -796,47 +538,27 @@ ng00103	Early Diagnosis	MeSH:D042241
 ng00103	Female	MeSH:D005260
 ng00103	Genetic Association Studies	MeSH:D056726
 ng00103	Genetic Variation	MeSH:D014644
-ng00103	Humans	MeSH:D006801
 ng00103	Male	MeSH:D008297
-ng00103	Middle Aged	MeSH:D008875
 ng00103	Prodromal Symptoms	MeSH:D062706
-ng00103	RNA Splicing Factors	MeSH:D000072260
 ng00156	Aged, 80 and over	MeSH:D000369
 ng00156	Aging	MeSH:D000375
 ng00156	Alzheimer Disease	MeSH:D000544
 ng00156	Brain	MeSH:D001921
-ng00156	Chromosomes, Human, Pair 18	MeSH:D002887
 ng00156	Cognitive Dysfunction	MeSH:D060825
 ng00156	Cognitive Reserve	MeSH:D058245
 ng00156	Female	MeSH:D005260
 ng00156	Genome-Wide Association Study	MeSH:D055106
 ng00156	Genotype	MeSH:D005838
-ng00156	Humans	MeSH:D006801
 ng00156	Male	MeSH:D008297
 ng00156	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00145	Apolipoproteins E	MeSH:D001057
-ng00145	Child	MeSH:D002648
 ng00145	Cognition	MeSH:D003071
-ng00145	Humans	MeSH:D006801
-ng00145	Adolescent	MeSH:D000293
-ng00145	Adult	MeSH:D000328
 ng00145	Aging	MeSH:D000375
-ng00145	Behavior	MeSH:D001519
-ng00145	Child, Preschool	MeSH:D002675
-ng00145	Colorado	MeSH:D003120
 ng00145	Female	MeSH:D005260
-ng00145	Infant	MeSH:D007223
-ng00145	Infant, Newborn	MeSH:D007231
 ng00145	Longitudinal Studies	MeSH:D008137
 ng00145	Male	MeSH:D008297
-ng00145	Registries	MeSH:D012042
-ng00145	Twins, Dizygotic	MeSH:D014429
-ng00145	Twins, Monozygotic	MeSH:D014430
 ng00116	Genetic Predisposition to Disease	MeSH:D020022
-ng00116	Genome, Human	MeSH:D015894
-ng00116	Humans	MeSH:D006801
 ng00116	Mutation	MeSH:D009154
-ng00159	Humans	MeSH:D006801
 ng00159	Alzheimer Disease	MeSH:D000544
 ng00159	Genome-Wide Association Study	MeSH:D055106
 ng00159	Endophenotypes	MeSH:D058068
@@ -844,173 +566,107 @@ ng00159	Genetic Predisposition to Disease	MeSH:D020022
 ng00159	Cognition	MeSH:D003071
 ng00159	Memory Disorders	MeSH:D008569
 ng00159	Polymorphism, Single Nucleotide	MeSH:D020641
-ng00071	Adaptor Proteins, Signal Transducing	MeSH:D048868
 ng00071	Alzheimer Disease	MeSH:D000544
 ng00071	Amino Acid Sequence	MeSH:D000595
 ng00071	Case-Control Studies	MeSH:D016022
 ng00071	Exome	MeSH:D059472
 ng00071	Gene Expression Profiling	MeSH:D020869
-ng00071	Gene Frequency	MeSH:D005787
 ng00071	Genetic Predisposition to Disease	MeSH:D020022
 ng00071	Genotype	MeSH:D005838
-ng00071	Humans	MeSH:D006801
 ng00071	Immunity, Innate	MeSH:D007113
 ng00071	Linkage Disequilibrium	MeSH:D015810
-ng00071	Membrane Glycoproteins	MeSH:D008562
 ng00071	Microglia	MeSH:D017628
-ng00071	Odds Ratio	MeSH:D016017
-ng00071	Phospholipase C gamma	MeSH:D051966
 ng00071	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00071	Protein Interaction Maps	MeSH:D060066
-ng00071	Receptors, Immunologic	MeSH:D011971
-ng00071	Sequence Homology, Amino Acid	MeSH:D017386
-ng00071	Aged	MeSH:D000368
 ng00071	Aged, 80 and over	MeSH:D000369
 ng00071	Amyloid beta-Protein Precursor	MeSH:D016564
 ng00071	Female	MeSH:D005260
 ng00071	Male	MeSH:D008297
 ng00071	Pedigree	MeSH:D010375
 ng00071	Protective Factors	MeSH:D065840
-ng00071	Sweden	MeSH:D013548
-ng00071	United States	MeSH:D014481
 ng00071	Cognitive Dysfunction	MeSH:D060825
 ng00071	Genome-Wide Association Study	MeSH:D055106
 ng00071	tau Proteins	MeSH:D016875
-ng00070	Adaptor Proteins, Signal Transducing	MeSH:D048868
 ng00070	Alzheimer Disease	MeSH:D000544
 ng00070	Amino Acid Sequence	MeSH:D000595
 ng00070	Case-Control Studies	MeSH:D016022
 ng00070	Exome	MeSH:D059472
 ng00070	Gene Expression Profiling	MeSH:D020869
-ng00070	Gene Frequency	MeSH:D005787
 ng00070	Genetic Predisposition to Disease	MeSH:D020022
 ng00070	Genotype	MeSH:D005838
-ng00070	Humans	MeSH:D006801
 ng00070	Immunity, Innate	MeSH:D007113
 ng00070	Linkage Disequilibrium	MeSH:D015810
-ng00070	Membrane Glycoproteins	MeSH:D008562
 ng00070	Microglia	MeSH:D017628
-ng00070	Odds Ratio	MeSH:D016017
-ng00070	Phospholipase C gamma	MeSH:D051966
 ng00070	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00070	Protein Interaction Maps	MeSH:D060066
-ng00070	Receptors, Immunologic	MeSH:D011971
-ng00070	Sequence Homology, Amino Acid	MeSH:D017386
-ng00070	Aged	MeSH:D000368
 ng00070	Aged, 80 and over	MeSH:D000369
 ng00070	Amyloid beta-Protein Precursor	MeSH:D016564
 ng00070	Female	MeSH:D005260
 ng00070	Male	MeSH:D008297
 ng00070	Pedigree	MeSH:D010375
 ng00070	Protective Factors	MeSH:D065840
-ng00070	Sweden	MeSH:D013548
-ng00070	United States	MeSH:D014481
 ng00070	Cognitive Dysfunction	MeSH:D060825
 ng00070	Genome-Wide Association Study	MeSH:D055106
 ng00070	tau Proteins	MeSH:D016875
-ng00069	Adaptor Proteins, Signal Transducing	MeSH:D048868
 ng00069	Alzheimer Disease	MeSH:D000544
 ng00069	Amino Acid Sequence	MeSH:D000595
 ng00069	Case-Control Studies	MeSH:D016022
 ng00069	Exome	MeSH:D059472
 ng00069	Gene Expression Profiling	MeSH:D020869
-ng00069	Gene Frequency	MeSH:D005787
 ng00069	Genetic Predisposition to Disease	MeSH:D020022
 ng00069	Genotype	MeSH:D005838
-ng00069	Humans	MeSH:D006801
 ng00069	Immunity, Innate	MeSH:D007113
 ng00069	Linkage Disequilibrium	MeSH:D015810
-ng00069	Membrane Glycoproteins	MeSH:D008562
 ng00069	Microglia	MeSH:D017628
-ng00069	Odds Ratio	MeSH:D016017
-ng00069	Phospholipase C gamma	MeSH:D051966
 ng00069	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00069	Protein Interaction Maps	MeSH:D060066
-ng00069	Receptors, Immunologic	MeSH:D011971
-ng00069	Sequence Homology, Amino Acid	MeSH:D017386
-ng00069	Aged	MeSH:D000368
 ng00069	Aged, 80 and over	MeSH:D000369
 ng00069	Amyloid beta-Protein Precursor	MeSH:D016564
 ng00069	Female	MeSH:D005260
 ng00069	Male	MeSH:D008297
 ng00069	Pedigree	MeSH:D010375
 ng00069	Protective Factors	MeSH:D065840
-ng00069	Sweden	MeSH:D013548
-ng00069	United States	MeSH:D014481
 ng00069	Cognitive Dysfunction	MeSH:D060825
 ng00069	Genome-Wide Association Study	MeSH:D055106
 ng00069	tau Proteins	MeSH:D016875
-ng00068	Adaptor Proteins, Signal Transducing	MeSH:D048868
 ng00068	Alzheimer Disease	MeSH:D000544
 ng00068	Amino Acid Sequence	MeSH:D000595
 ng00068	Case-Control Studies	MeSH:D016022
 ng00068	Exome	MeSH:D059472
 ng00068	Gene Expression Profiling	MeSH:D020869
-ng00068	Gene Frequency	MeSH:D005787
 ng00068	Genetic Predisposition to Disease	MeSH:D020022
 ng00068	Genotype	MeSH:D005838
-ng00068	Humans	MeSH:D006801
 ng00068	Immunity, Innate	MeSH:D007113
 ng00068	Linkage Disequilibrium	MeSH:D015810
-ng00068	Membrane Glycoproteins	MeSH:D008562
 ng00068	Microglia	MeSH:D017628
-ng00068	Odds Ratio	MeSH:D016017
-ng00068	Phospholipase C gamma	MeSH:D051966
 ng00068	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00068	Protein Interaction Maps	MeSH:D060066
-ng00068	Receptors, Immunologic	MeSH:D011971
-ng00068	Sequence Homology, Amino Acid	MeSH:D017386
-ng00068	Aged	MeSH:D000368
 ng00068	Aged, 80 and over	MeSH:D000369
 ng00068	Amyloid beta-Protein Precursor	MeSH:D016564
 ng00068	Female	MeSH:D005260
 ng00068	Male	MeSH:D008297
 ng00068	Pedigree	MeSH:D010375
 ng00068	Protective Factors	MeSH:D065840
-ng00068	Sweden	MeSH:D013548
-ng00068	United States	MeSH:D014481
 ng00068	Cognitive Dysfunction	MeSH:D060825
 ng00068	Genome-Wide Association Study	MeSH:D055106
 ng00068	tau Proteins	MeSH:D016875
-ng00024	Adaptor Proteins, Signal Transducing	MeSH:D048868
 ng00024	Age of Onset	MeSH:D017668
-ng00024	Aged	MeSH:D000368
 ng00024	Aged, 80 and over	MeSH:D000369
 ng00024	Alzheimer Disease	MeSH:D000544
-ng00024	Antigens, CD	MeSH:D015703
-ng00024	Antigens, Differentiation, Myelomonocytic	MeSH:D015214
 ng00024	Cohort Studies	MeSH:D015331
-ng00024	Cytoskeletal Proteins	MeSH:D003598
-ng00024	Databases, Genetic	MeSH:D030541
 ng00024	Female	MeSH:D005260
 ng00024	Genetic Predisposition to Disease	MeSH:D020022
 ng00024	Genetic Variation	MeSH:D014644
 ng00024	Genome-Wide Association Study	MeSH:D055106
-ng00024	Humans	MeSH:D006801
 ng00024	Male	MeSH:D008297
-ng00024	Membrane Proteins	MeSH:D008565
-ng00024	Multigene Family	MeSH:D005810
 ng00024	Polymorphism, Single Nucleotide	MeSH:D020641
-ng00024	Receptor, EphA1	MeSH:D036082
-ng00024	Sialic Acid Binding Ig-like Lectin 3	MeSH:D063268
 ng00024	Case-Control Studies	MeSH:D016022
 ng00024	Genetic Loci	MeSH:D056426
-ng00024	Middle Aged	MeSH:D008875
 ng00024	Apolipoprotein E4	MeSH:D053327
-ng00024	GTPase-Activating Proteins	MeSH:D020690
-ng00024	Heparin-binding EGF-like Growth Factor	MeSH:D066257
-ng00024	Membrane Glycoproteins	MeSH:D008562
-ng00024	Molecular Chaperones	MeSH:D018832
-ng00024	NFI Transcription Factors	MeSH:D051839
-ng00024	Peroxisomal Bifunctional Enzyme	MeSH:D063994
-ng00024	Receptors, GABA	MeSH:D018079
-ng00024	ATP-Binding Cassette Transporters	MeSH:D018528
 ng00024	Black or African American	MeSH:D001741
 ng00024	Genotype	MeSH:D005838
 ng00024	Linkage Disequilibrium	MeSH:D015810
-ng00024	Risk	MeSH:D012306
 ng00024	Amyloid beta-Peptides	MeSH:D016229
-ng00024	Genetic Testing	MeSH:D005820
 ng00024	Haplotypes	MeSH:D006239
 ng00024	Immunity	MeSH:D007109
 ng00024	Lipid Metabolism	MeSH:D050356
@@ -1019,54 +675,27 @@ ng00024	tau Proteins	MeSH:D016875
 ng00024	Amino Acid Sequence	MeSH:D000595
 ng00024	Exome	MeSH:D059472
 ng00024	Gene Expression Profiling	MeSH:D020869
-ng00024	Gene Frequency	MeSH:D005787
 ng00024	Immunity, Innate	MeSH:D007113
 ng00024	Microglia	MeSH:D017628
-ng00024	Odds Ratio	MeSH:D016017
-ng00024	Phospholipase C gamma	MeSH:D051966
 ng00024	Protein Interaction Maps	MeSH:D060066
-ng00024	Receptors, Immunologic	MeSH:D011971
-ng00024	Sequence Homology, Amino Acid	MeSH:D017386
 ng00024	Cognitive Dysfunction	MeSH:D060825
-ng00023	Adaptor Proteins, Signal Transducing	MeSH:D048868
 ng00023	Age of Onset	MeSH:D017668
-ng00023	Aged	MeSH:D000368
 ng00023	Aged, 80 and over	MeSH:D000369
 ng00023	Alzheimer Disease	MeSH:D000544
-ng00023	Antigens, CD	MeSH:D015703
-ng00023	Antigens, Differentiation, Myelomonocytic	MeSH:D015214
 ng00023	Cohort Studies	MeSH:D015331
-ng00023	Cytoskeletal Proteins	MeSH:D003598
-ng00023	Databases, Genetic	MeSH:D030541
 ng00023	Female	MeSH:D005260
 ng00023	Genetic Predisposition to Disease	MeSH:D020022
 ng00023	Genetic Variation	MeSH:D014644
 ng00023	Genome-Wide Association Study	MeSH:D055106
-ng00023	Humans	MeSH:D006801
 ng00023	Male	MeSH:D008297
-ng00023	Membrane Proteins	MeSH:D008565
-ng00023	Multigene Family	MeSH:D005810
 ng00023	Polymorphism, Single Nucleotide	MeSH:D020641
-ng00023	Receptor, EphA1	MeSH:D036082
-ng00023	Sialic Acid Binding Ig-like Lectin 3	MeSH:D063268
 ng00023	Case-Control Studies	MeSH:D016022
 ng00023	Genetic Loci	MeSH:D056426
-ng00023	Middle Aged	MeSH:D008875
 ng00023	Apolipoprotein E4	MeSH:D053327
-ng00023	GTPase-Activating Proteins	MeSH:D020690
-ng00023	Heparin-binding EGF-like Growth Factor	MeSH:D066257
-ng00023	Membrane Glycoproteins	MeSH:D008562
-ng00023	Molecular Chaperones	MeSH:D018832
-ng00023	NFI Transcription Factors	MeSH:D051839
-ng00023	Peroxisomal Bifunctional Enzyme	MeSH:D063994
-ng00023	Receptors, GABA	MeSH:D018079
-ng00023	ATP-Binding Cassette Transporters	MeSH:D018528
 ng00023	Black or African American	MeSH:D001741
 ng00023	Genotype	MeSH:D005838
 ng00023	Linkage Disequilibrium	MeSH:D015810
-ng00023	Risk	MeSH:D012306
 ng00023	Amyloid beta-Peptides	MeSH:D016229
-ng00023	Genetic Testing	MeSH:D005820
 ng00023	Haplotypes	MeSH:D006239
 ng00023	Immunity	MeSH:D007109
 ng00023	Lipid Metabolism	MeSH:D050356
@@ -1075,54 +704,27 @@ ng00023	tau Proteins	MeSH:D016875
 ng00023	Amino Acid Sequence	MeSH:D000595
 ng00023	Exome	MeSH:D059472
 ng00023	Gene Expression Profiling	MeSH:D020869
-ng00023	Gene Frequency	MeSH:D005787
 ng00023	Immunity, Innate	MeSH:D007113
 ng00023	Microglia	MeSH:D017628
-ng00023	Odds Ratio	MeSH:D016017
-ng00023	Phospholipase C gamma	MeSH:D051966
 ng00023	Protein Interaction Maps	MeSH:D060066
-ng00023	Receptors, Immunologic	MeSH:D011971
-ng00023	Sequence Homology, Amino Acid	MeSH:D017386
 ng00023	Cognitive Dysfunction	MeSH:D060825
-ng00022	Adaptor Proteins, Signal Transducing	MeSH:D048868
 ng00022	Age of Onset	MeSH:D017668
-ng00022	Aged	MeSH:D000368
 ng00022	Aged, 80 and over	MeSH:D000369
 ng00022	Alzheimer Disease	MeSH:D000544
-ng00022	Antigens, CD	MeSH:D015703
-ng00022	Antigens, Differentiation, Myelomonocytic	MeSH:D015214
 ng00022	Cohort Studies	MeSH:D015331
-ng00022	Cytoskeletal Proteins	MeSH:D003598
-ng00022	Databases, Genetic	MeSH:D030541
 ng00022	Female	MeSH:D005260
 ng00022	Genetic Predisposition to Disease	MeSH:D020022
 ng00022	Genetic Variation	MeSH:D014644
 ng00022	Genome-Wide Association Study	MeSH:D055106
-ng00022	Humans	MeSH:D006801
 ng00022	Male	MeSH:D008297
-ng00022	Membrane Proteins	MeSH:D008565
-ng00022	Multigene Family	MeSH:D005810
 ng00022	Polymorphism, Single Nucleotide	MeSH:D020641
-ng00022	Receptor, EphA1	MeSH:D036082
-ng00022	Sialic Acid Binding Ig-like Lectin 3	MeSH:D063268
 ng00022	Case-Control Studies	MeSH:D016022
 ng00022	Genetic Loci	MeSH:D056426
-ng00022	Middle Aged	MeSH:D008875
 ng00022	Apolipoprotein E4	MeSH:D053327
-ng00022	GTPase-Activating Proteins	MeSH:D020690
-ng00022	Heparin-binding EGF-like Growth Factor	MeSH:D066257
-ng00022	Membrane Glycoproteins	MeSH:D008562
-ng00022	Molecular Chaperones	MeSH:D018832
-ng00022	NFI Transcription Factors	MeSH:D051839
-ng00022	Peroxisomal Bifunctional Enzyme	MeSH:D063994
-ng00022	Receptors, GABA	MeSH:D018079
-ng00022	ATP-Binding Cassette Transporters	MeSH:D018528
 ng00022	Black or African American	MeSH:D001741
 ng00022	Genotype	MeSH:D005838
 ng00022	Linkage Disequilibrium	MeSH:D015810
-ng00022	Risk	MeSH:D012306
 ng00022	Amyloid beta-Peptides	MeSH:D016229
-ng00022	Genetic Testing	MeSH:D005820
 ng00022	Haplotypes	MeSH:D006239
 ng00022	Immunity	MeSH:D007109
 ng00022	Lipid Metabolism	MeSH:D050356
@@ -1131,45 +733,32 @@ ng00022	tau Proteins	MeSH:D016875
 ng00022	Amino Acid Sequence	MeSH:D000595
 ng00022	Exome	MeSH:D059472
 ng00022	Gene Expression Profiling	MeSH:D020869
-ng00022	Gene Frequency	MeSH:D005787
 ng00022	Immunity, Innate	MeSH:D007113
 ng00022	Microglia	MeSH:D017628
-ng00022	Odds Ratio	MeSH:D016017
-ng00022	Phospholipase C gamma	MeSH:D051966
 ng00022	Protein Interaction Maps	MeSH:D060066
-ng00022	Receptors, Immunologic	MeSH:D011971
-ng00022	Sequence Homology, Amino Acid	MeSH:D017386
 ng00022	Cognitive Dysfunction	MeSH:D060825
 ng00138	Alzheimer Disease	MeSH:D000544
 ng00138	Cognitive Dysfunction	MeSH:D060825
 ng00138	Genome-Wide Association Study	MeSH:D055106
-ng00138	Humans	MeSH:D006801
 ng00138	tau Proteins	MeSH:D016875
 ng00137	Black or African American	MeSH:D001741
-ng00137	Aged	MeSH:D000368
 ng00137	Alzheimer Disease	MeSH:D000544
 ng00137	Female	MeSH:D005260
 ng00137	Genetic Loci	MeSH:D056426
 ng00137	Genetic Predisposition to Disease	MeSH:D020022
 ng00137	Genome-Wide Association Study	MeSH:D055106
-ng00137	Humans	MeSH:D006801
 ng00137	Male	MeSH:D008297
-ng00137	Middle Aged	MeSH:D008875
 ng00137	Cognitive Dysfunction	MeSH:D060825
 ng00137	tau Proteins	MeSH:D016875
 ng00136	Black or African American	MeSH:D001741
-ng00136	Aged	MeSH:D000368
 ng00136	Alzheimer Disease	MeSH:D000544
 ng00136	Female	MeSH:D005260
 ng00136	Genetic Loci	MeSH:D056426
 ng00136	Genetic Predisposition to Disease	MeSH:D020022
 ng00136	Genome-Wide Association Study	MeSH:D055106
-ng00136	Humans	MeSH:D006801
 ng00136	Male	MeSH:D008297
-ng00136	Middle Aged	MeSH:D008875
 ng00136	Cognitive Dysfunction	MeSH:D060825
 ng00136	tau Proteins	MeSH:D016875
-ng00160	Humans	MeSH:D006801
 ng00160	Male	MeSH:D008297
 ng00160	Female	MeSH:D005260
 ng00160	Genome-Wide Association Study	MeSH:D055106
@@ -1177,168 +766,94 @@ ng00160	Alzheimer Disease	MeSH:D000544
 ng00160	Cognition	MeSH:D003071
 ng00160	Sex Characteristics	MeSH:D012727
 ng00160	Cognitive Aging	MeSH:D000066492
-ng00153	Age Factors	MeSH:D000367
-ng00153	Aged	MeSH:D000368
 ng00153	Aging	MeSH:D000375
-ng00153	Biological Clocks	MeSH:D001683
 ng00153	DNA Methylation	MeSH:D019175
-ng00153	Educational Status	MeSH:D004522
 ng00153	Epigenesis, Genetic	MeSH:D044127
 ng00153	Female	MeSH:D005260
-ng00153	Health Behavior	MeSH:D015438
-ng00153	Humans	MeSH:D006801
 ng00153	Male	MeSH:D008297
-ng00153	Obesity	MeSH:D009765
 ng00153	Racial Groups	MeSH:D044469
 ng00153	Sex Factors	MeSH:D012737
-ng00153	Smoking	MeSH:D012907
-ng00153	Socioeconomic Factors	MeSH:D012959
-ng00153	United States	MeSH:D014481
 ng00153	Cross-Sectional Studies	MeSH:D003430
 ng00153	Biomarkers	MeSH:D015415
-ng00153	Acceleration	MeSH:D000054
 ng00067	Alzheimer Disease	MeSH:D000544
-ng00067	Data Management	MeSH:D000079803
 ng00067	Genomics	MeSH:D023281
 ng00067	High-Throughput Nucleotide Sequencing	MeSH:D059014
-ng00067	Humans	MeSH:D006801
-ng00067	Software	MeSH:D012984
-ng00067	Caribbean Region	MeSH:D017691
 ng00067	Ethnicity	MeSH:D005006
-ng00067	Family	MeSH:D005190
 ng00067	Female	MeSH:D005260
-ng00067	Gene Frequency	MeSH:D005787
-ng00067	Gene Pool	MeSH:D005788
 ng00067	Genetic Linkage	MeSH:D008040
 ng00067	Genetics, Population	MeSH:D005828
 ng00067	Hispanic or Latino	MeSH:D006630
-ng00067	Lod Score	MeSH:D008126
 ng00067	Male	MeSH:D008297
-ng00067	Models, Genetic	MeSH:D008957
 ng00067	Pedigree	MeSH:D010375
-ng00067	Phylogeny	MeSH:D010802
 ng00067	Principal Component Analysis	MeSH:D025341
 ng00067	Sequence Analysis, DNA	MeSH:D017422
-ng00067	Algorithms	MeSH:D000465
 ng00067	Genome-Wide Association Study	MeSH:D055106
 ng00067	Genotype	MeSH:D005838
 ng00067	Genotyping Techniques	MeSH:D060005
 ng00067	Polymorphism, Genetic	MeSH:D011110
-ng00067	Quality Control	MeSH:D011786
 ng00067	Whole Genome Sequencing	MeSH:D000073336
-ng00067	Databases, Genetic	MeSH:D030541
 ng00067	Genetic Predisposition to Disease	MeSH:D020022
-ng00067	Genome	MeSH:D016678
 ng00067	Molecular Sequence Annotation	MeSH:D058977
 ng00067	Polymorphism, Single Nucleotide	MeSH:D020641
-ng00067	Aged	MeSH:D000368
 ng00067	Aged, 80 and over	MeSH:D000369
 ng00067	Case-Control Studies	MeSH:D016022
 ng00067	Cohort Studies	MeSH:D015331
 ng00067	Dementia	MeSH:D003704
 ng00067	Genetic Variation	MeSH:D014644
-ng00067	Nerve Tissue Proteins	MeSH:D009419
-ng00067	Prevalence	MeSH:D015995
-ng00141	Acculturation	MeSH:D000069
-ng00141	Aged	MeSH:D000368
 ng00141	Aging	MeSH:D000375
-ng00141	California	MeSH:D002140
 ng00141	Cognition	MeSH:D003071
 ng00141	Cognitive Dysfunction	MeSH:D060825
 ng00141	Dementia	MeSH:D003704
-ng00141	Educational Status	MeSH:D004522
 ng00141	Female	MeSH:D005260
 ng00141	Hispanic or Latino	MeSH:D006630
-ng00141	Humans	MeSH:D006801
-ng00141	Income	MeSH:D007182
-ng00141	Independent Living	MeSH:D057187
 ng00141	Longitudinal Studies	MeSH:D008137
 ng00141	Male	MeSH:D008297
-ng00141	Middle Aged	MeSH:D008875
-ng00141	Proportional Hazards Models	MeSH:D016016
-ng00141	Risk Factors	MeSH:D012307
-ng00141	Socioeconomic Factors	MeSH:D012959
-ng00141	Age Factors	MeSH:D000367
 ng00141	Biomarkers	MeSH:D015415
 ng00141	Cognition Disorders	MeSH:D003072
 ng00141	Cohort Studies	MeSH:D015331
 ng00141	Cross-Sectional Studies	MeSH:D003430
-ng00141	Homocysteine	MeSH:D006710
-ng00141	Hyperhomocysteinemia	MeSH:D020138
-ng00141	Predictive Value of Tests	MeSH:D011237
 ng00141	Sex Factors	MeSH:D012737
-ng00141	Vitamin B 12	MeSH:D014805
 ng00141	Aged, 80 and over	MeSH:D000369
 ng00141	Apolipoprotein E4	MeSH:D053327
 ng00141	Diabetes Mellitus, Type 2	MeSH:D003924
-ng00141	Exercise	MeSH:D015444
-ng00141	Fasting	MeSH:D005215
 ng00141	Genetic Predisposition to Disease	MeSH:D020022
 ng00141	Genotype	MeSH:D005838
 ng00141	Mental Status Schedule	MeSH:D008609
 ng00141	Mexican Americans	MeSH:D017058
 ng00141	Neuropsychological Tests	MeSH:D009483
 ng00141	Memory, Episodic	MeSH:D061212
-ng00141	Mexico	MeSH:D008800
-ng00141	Multilingualism	MeSH:D019303
-ng00141	Verbal Learning	MeSH:D014706
-ng00141	Age Distribution	MeSH:D017677
-ng00141	Caregivers	MeSH:D017028
-ng00141	Comorbidity	MeSH:D015897
 ng00141	Depression	MeSH:D003863
-ng00141	Mental Disorders	MeSH:D001523
-ng00141	Prevalence	MeSH:D015995
-ng00141	Regression Analysis	MeSH:D012044
-ng00141	Risk Assessment	MeSH:D018570
-ng00141	Severity of Illness Index	MeSH:D012720
-ng00102	Aged	MeSH:D000368
 ng00102	Alzheimer Disease	MeSH:D000544
 ng00102	Brain	MeSH:D001921
 ng00102	Cerebrospinal Fluid	MeSH:D002555
 ng00102	Female	MeSH:D005260
 ng00102	Gene Expression Regulation	MeSH:D005786
-ng00102	High-Throughput Screening Assays	MeSH:D057166
-ng00102	Humans	MeSH:D006801
 ng00102	Male	MeSH:D008297
-ng00102	Middle Aged	MeSH:D008875
 ng00102	Plasma	MeSH:D010949
 ng00102	Proteome	MeSH:D020543
 ng00102	Proteomics	MeSH:D040901
 ng00102	Quantitative Trait Loci	MeSH:D040641
-ng00135	Humans	MeSH:D006801
 ng00135	Alzheimer Disease	MeSH:D000544
 ng00135	Neurodegenerative Diseases	MeSH:D019636
 ng00135	Apolipoproteins E	MeSH:D001057
-ng00135	Risk Factors	MeSH:D012307
 ng00148	Alzheimer Disease	MeSH:D000544
 ng00148	Brain	MeSH:D001921
 ng00148	Exome	MeSH:D059472
-ng00148	Humans	MeSH:D006801
 ng00148	tau Proteins	MeSH:D016875
 ng00144	Alzheimer Disease	MeSH:D000544
 ng00144	Genetic Predisposition to Disease	MeSH:D020022
 ng00144	Genome-Wide Association Study	MeSH:D055106
-ng00144	Humans	MeSH:D006801
 ng00144	Multifactorial Inheritance	MeSH:D020412
-ng00144	Risk Factors	MeSH:D012307
 ng00118	Brain	MeSH:D001921
-ng00118	Genome, Human	MeSH:D015894
 ng00118	Genomic Structural Variation	MeSH:D056914
-ng00118	Humans	MeSH:D006801
-ng00118	Middle Aged	MeSH:D008875
 ng00118	Quantitative Trait Loci	MeSH:D040641
-ng00118	Reproducibility of Results	MeSH:D015203
 ng00118	Whole Genome Sequencing	MeSH:D000073336
-ng00127	Aged	MeSH:D000368
 ng00127	Alzheimer Disease	MeSH:D000544
 ng00127	Brain	MeSH:D001921
 ng00127	Cerebrospinal Fluid	MeSH:D002555
 ng00127	Female	MeSH:D005260
 ng00127	Gene Expression Regulation	MeSH:D005786
-ng00127	High-Throughput Screening Assays	MeSH:D057166
-ng00127	Humans	MeSH:D006801
 ng00127	Male	MeSH:D008297
-ng00127	Middle Aged	MeSH:D008875
 ng00127	Plasma	MeSH:D010949
 ng00127	Proteome	MeSH:D020543
 ng00127	Proteomics	MeSH:D040901
@@ -1350,35 +865,21 @@ ng00127	Apolipoprotein E4	MeSH:D053327
 ng00127	Biomarkers	MeSH:D015415
 ng00127	Disease Susceptibility	MeSH:D004198
 ng00127	Endophenotypes	MeSH:D058068
-ng00127	Peptide Fragments	MeSH:D010446
 ng00127	Positron-Emission Tomography	MeSH:D049268
 ng00127	tau Proteins	MeSH:D016875
-ng00127	Adaptor Proteins, Signal Transducing	MeSH:D048868
 ng00127	Cohort Studies	MeSH:D015331
-ng00127	Databases, Genetic	MeSH:D030541
 ng00127	Genetic Variation	MeSH:D014644
-ng00127	Membrane Glycoproteins	MeSH:D008562
 ng00127	Phenotype	MeSH:D010641
-ng00127	Phospholipase C gamma	MeSH:D051966
-ng00127	Receptors, Immunologic	MeSH:D011971
 ng00127	Genomics	MeSH:D023281
 ng00127	Dementia	MeSH:D003704
 ng00127	Multiomics	MeSH:D000095028
-ng00104	Age Factors	MeSH:D000367
 ng00104	Aged, 80 and over	MeSH:D000369
-ng00104	California	MeSH:D002140
 ng00104	Dementia	MeSH:D003704
-ng00104	Educational Status	MeSH:D004522
 ng00104	Female	MeSH:D005260
 ng00104	Follow-Up Studies	MeSH:D005500
-ng00104	Humans	MeSH:D006801
-ng00104	Incidence	MeSH:D015994
 ng00104	Longitudinal Studies	MeSH:D008137
 ng00104	Male	MeSH:D008297
-ng00104	Models, Biological	MeSH:D008954
-ng00104	Poisson Distribution	MeSH:D016012
 ng00104	Psychiatric Status Rating Scales	MeSH:D011569
-ng00104	Risk	MeSH:D012306
 ng00104	Sex Factors	MeSH:D012737
 ng00104	Aging	MeSH:D000375
 ng00104	Alzheimer Disease	MeSH:D000544
@@ -1388,37 +889,18 @@ ng00104	Cohort Studies	MeSH:D015331
 ng00104	Apolipoprotein E4	MeSH:D053327
 ng00104	Genetic Predisposition to Disease	MeSH:D020022
 ng00104	Genotype	MeSH:D005838
-ng00104	Mortality	MeSH:D009026
-ng00104	Risk Factors	MeSH:D012307
-ng00119	Aged	MeSH:D000368
 ng00119	Female	MeSH:D005260
 ng00119	Genetic Predisposition to Disease	MeSH:D020022
-ng00119	Health Status	MeSH:D006304
-ng00119	Humans	MeSH:D006801
 ng00119	Longitudinal Studies	MeSH:D008137
 ng00119	Male	MeSH:D008297
-ng00119	Mental Health	MeSH:D008603
-ng00119	Middle Aged	MeSH:D008875
-ng00119	Physical Fitness	MeSH:D010809
-ng00119	Retirement	MeSH:D012179
-ng00119	United States	MeSH:D014481
-ng00106	Aged	MeSH:D000368
 ng00106	Aging	MeSH:D000375
 ng00106	Dementia	MeSH:D003704
 ng00106	Female	MeSH:D005260
-ng00106	Humans	MeSH:D006801
-ng00106	India	MeSH:D007194
-ng00106	Interviews as Topic	MeSH:D007407
 ng00106	Longitudinal Studies	MeSH:D008137
 ng00106	Male	MeSH:D008297
-ng00106	Middle Aged	MeSH:D008875
 ng00106	Neuropsychological Tests	MeSH:D009483
 ng00106	Prospective Studies	MeSH:D011446
-ng00106	Research Design	MeSH:D012107
 ng00106	Cognition	MeSH:D003071
-ng00106	Geriatric Assessment	MeSH:D015577
-ng00106	Risk Factors	MeSH:D012307
-ng00106	Alleles	MeSH:D000483
 ng00106	Asian People	MeSH:D044466
 ng00106	Genome-Wide Association Study	MeSH:D055106
 ng00106	Genotyping Techniques	MeSH:D060005
@@ -1427,14 +909,11 @@ ng00106	Polymorphism, Single Nucleotide	MeSH:D020641
 ng00106	White People	MeSH:D044465
 ng00105	Aging	MeSH:D000375
 ng00105	Alzheimer Disease	MeSH:D000544
-ng00105	Atlases as Topic	MeSH:D001271
 ng00105	Brain	MeSH:D001921
-ng00105	Datasets as Topic	MeSH:D066264
 ng00105	Female	MeSH:D005260
 ng00105	Gene Expression Profiling	MeSH:D020869
 ng00105	Genetic Heterogeneity	MeSH:D018740
 ng00105	Genetic Predisposition to Disease	MeSH:D020022
-ng00105	Humans	MeSH:D006801
 ng00105	Male	MeSH:D008297
 ng00105	Microglia	MeSH:D017628
 ng00105	Parkinson Disease	MeSH:D010300
@@ -1444,18 +923,9 @@ ng00105	Transcriptome	MeSH:D059467
 ng00108	Aging	MeSH:D000375
 ng00108	Alzheimer Disease	MeSH:D000544
 ng00108	Amyloid beta-Peptides	MeSH:D016229
-ng00108	Animals	MeSH:D000818
-ng00108	Antibodies, Monoclonal, Humanized	MeSH:D061067
 ng00108	Brain	MeSH:D001921
 ng00108	Disease Models, Animal	MeSH:D004195
 ng00108	Hippocampus	MeSH:D006624
-ng00108	Humans	MeSH:D006801
-ng00108	Immunotherapy	MeSH:D007167
-ng00108	Inflammation	MeSH:D007249
-ng00108	Lymphatic Vessels	MeSH:D042601
 ng00108	Male	MeSH:D008297
-ng00108	Meninges	MeSH:D008578
-ng00108	Mice	MeSH:D051379
 ng00108	Microglia	MeSH:D017628
 ng00108	Transcription, Genetic	MeSH:D014158
-ng00108	Vascular Endothelial Growth Factor C	MeSH:D042582

@@ -1,7 +1,7 @@
 mesh_term	curie
 ADAM10 Protein	MeSH:D000072197
 Age of Onset	MeSH:D017668
-Aged, 80 and over	MeSH:D000369
+"Aged, 80 and over"	MeSH:D000369
 Aging	MeSH:D000375
 alpha-Synuclein	MeSH:D051844
 Alternative Splicing	MeSH:D017398
@@ -16,12 +16,13 @@ Amyloidosis	MeSH:D000686
 Amyotrophic Lateral Sclerosis	MeSH:D000690
 Anxiety	MeSH:D001007
 Apathy	MeSH:D057565
-Aphasia, Primary Progressive	MeSH:D018888
+"Aphasia, Primary Progressive"	MeSH:D018888
 Apolipoprotein E2	MeSH:D053329
 Apolipoprotein E3	MeSH:D053318
 Apolipoprotein E4	MeSH:D053327
 Apolipoproteins E	MeSH:D001057
 Arteriolosclerosis	MeSH:D050379
+Artificial Intelligence	MeSH:D001185
 Asian	MeSH:D001213
 Asian American Native Hawaiian and Pacific Islander	MeSH:D000094202
 Asian People	MeSH:D044466
@@ -29,6 +30,7 @@ Astrocytes	MeSH:D001253
 Atrophy	MeSH:D001284
 Autophagy	MeSH:D001343
 Autopsy	MeSH:D001344
+Benchmarking	MeSH:D019985
 Biomarkers	MeSH:D015415
 Black or African American	MeSH:D001741
 Black People	MeSH:D044383
@@ -36,7 +38,7 @@ Blood	MeSH:D001769
 Blood Proteins	MeSH:D001798
 Blood-Brain Barrier	MeSH:D001812
 Brain	MeSH:D001921
-CA3 Region, Hippocampal	MeSH:D056654
+"CA3 Region, Hippocampal"	MeSH:D056654
 Caribbean People	MeSH:D000094859
 Case-Control Studies	MeSH:D016022
 Cell Death	MeSH:D016923
@@ -64,11 +66,12 @@ Conserved Sequence	MeSH:D017124
 Corticobasal Degeneration	MeSH:D000088282
 CpG Islands	MeSH:D018899
 Cross-Sectional Studies	MeSH:D003430
+Deep Learning	MeSH:D000077321
 Dementia	MeSH:D003704
-Dementia, Vascular	MeSH:D015140
+"Dementia, Vascular"	MeSH:D015140
 Depression	MeSH:D003863
-Diabetes Mellitus, Type 2	MeSH:D003924
-Disease Models, Animal	MeSH:D004195
+"Diabetes Mellitus, Type 2"	MeSH:D003924
+"Disease Models, Animal"	MeSH:D004195
 Disease Progression	MeSH:D018450
 Disease Susceptibility	MeSH:D004198
 DNA Copy Number Variations	MeSH:D056915
@@ -76,7 +79,8 @@ DNA Methylation	MeSH:D019175
 DNA Mutational Analysis	MeSH:D004252
 DNA Repeat Expansion	MeSH:D042622
 DNA Transposable Elements	MeSH:D004251
-DNA, Mitochondrial	MeSH:D004272
+"DNA, Mitochondrial"	MeSH:D004272
+DNA-Binding Proteins	MeSH:D004268
 Dopaminergic Neurons	MeSH:D059290
 Dorsolateral Prefrontal Cortex	MeSH:D000087643
 Down Syndrome	MeSH:D004314
@@ -84,13 +88,13 @@ Early Diagnosis	MeSH:D042241
 East Asian People	MeSH:D000095225
 Emigrants and Immigrants	MeSH:D054242
 Endophenotypes	MeSH:D058068
-Enhancer Elements, Genetic	MeSH:D004742
+"Enhancer Elements, Genetic"	MeSH:D004742
 Entorhinal Cortex	MeSH:D018728
 Epidemiologic Studies	MeSH:D016021
-Epigenesis, Genetic	MeSH:D044127
+"Epigenesis, Genetic"	MeSH:D044127
 Epigenome	MeSH:D000081122
 Epigenomics	MeSH:D057890
-Epistasis, Genetic	MeSH:D004843
+"Epistasis, Genetic"	MeSH:D004843
 Ethnicity	MeSH:D005006
 Exome	MeSH:D059472
 Exome Sequencing	MeSH:D000073359
@@ -98,7 +102,6 @@ Female	MeSH:D005260
 Follow-Up Studies	MeSH:D005500
 Fragile X Syndrome	MeSH:D005600
 Friedreich Ataxia	MeSH:D005621
-Frontal Lobe	MeSH:D005625
 Frontotemporal Dementia	MeSH:D057180
 Frontotemporal Lobar Degeneration	MeSH:D057174
 Gene Expression	MeSH:D015870
@@ -115,7 +118,7 @@ Genetic Pleiotropy	MeSH:D058685
 Genetic Predisposition to Disease	MeSH:D020022
 Genetic Risk Score	MeSH:D000096442
 Genetic Variation	MeSH:D014644
-Genetics, Population	MeSH:D005828
+"Genetics, Population"	MeSH:D005828
 Genome-Wide Association Study	MeSH:D055106
 Genomic Structural Variation	MeSH:D056914
 Genomics	MeSH:D023281
@@ -124,22 +127,20 @@ Genotyping Techniques	MeSH:D060005
 Glial Fibrillary Acidic Protein	MeSH:D005904
 Gliosis	MeSH:D005911
 Gray Matter	MeSH:D066128
-Hallucinations	MeSH:D006212
 Haplotypes	MeSH:D006239
 HEK293 Cells	MeSH:D057809
 High-Throughput Nucleotide Sequencing	MeSH:D059014
-High-Throughput Screening Assays	MeSH:D057166
 Hippocampus	MeSH:D006624
 Hispanic or Latino	MeSH:D006630
 Huntington Disease	MeSH:D006816
 Imaging Genomics	MeSH:D000085843
 Immunity	MeSH:D007109
-Immunity, Innate	MeSH:D007113
+"Immunity, Innate"	MeSH:D007113
 INDEL Mutation	MeSH:D054643
 Induced Pluripotent Stem Cells	MeSH:D057026
-Inflammation	MeSH:D007249
 Introns	MeSH:D007438
-Leukocytes, Mononuclear	MeSH:D007963
+Large Language Models	MeSH:D000098342
+"Leukocytes, Mononuclear"	MeSH:D007963
 Lewy Bodies	MeSH:D016631
 Lewy Body Disease	MeSH:D020961
 Linkage Disequilibrium	MeSH:D015810
@@ -149,16 +150,18 @@ Lipids	MeSH:D008055
 Longevity	MeSH:D008136
 Longitudinal Studies	MeSH:D008137
 Loss of Function Mutation	MeSH:D000073658
+Machine Learning	MeSH:D000069550
 Magnetic Resonance Imaging	MeSH:D008279
 Male	MeSH:D008297
 Mass Spectrometry	MeSH:D013058
 Memory	MeSH:D008568
 Memory Disorders	MeSH:D008569
-Memory, Episodic	MeSH:D061212
-Memory, Short-Term	MeSH:D008570
+"Memory, Episodic"	MeSH:D061212
+"Memory, Short-Term"	MeSH:D008570
 Mendelian Randomization Analysis	MeSH:D057182
 Mental Status and Dementia Tests	MeSH:D000073216
 Mental Status Schedule	MeSH:D008609
+Meta-Analysis as Topic	MeSH:D015201
 Metabolome	MeSH:D055442
 Metabolomics	MeSH:D055432
 Mexican Americans	MeSH:D017058
@@ -169,13 +172,16 @@ Minisatellite Repeats	MeSH:D018598
 Minority Groups	MeSH:D008913
 Mitochondria	MeSH:D008928
 Molecular Sequence Annotation	MeSH:D058977
+Molecular Sequence Data	MeSH:D008969
 Motor Cortex	MeSH:D009044
 Multifactorial Inheritance	MeSH:D020412
+Multimodal Imaging	MeSH:D064847
 Multiomics	MeSH:D000095028
 Multiple Sclerosis	MeSH:D009103
 Multiplex Polymerase Chain Reaction	MeSH:D060885
+Multivariate Analysis	MeSH:D015999
 Mutation	MeSH:D009154
-Myotonic Dystrophy	MeSH:D009223
+Natural Language Processing	MeSH:D009323
 Nerve Degeneration	MeSH:D009410
 Neurodegenerative Diseases	MeSH:D019636
 Neurofibrillary Tangles	MeSH:D016874
@@ -193,19 +199,19 @@ Oligonucleotide Array Sequence Analysis	MeSH:D020411
 Open Reading Frames	MeSH:D016366
 Parkinson Disease	MeSH:D010300
 Pedigree	MeSH:D010375
-Penetrance	MeSH:D019683
 Phenotype	MeSH:D010641
-Plaque, Amyloid	MeSH:D058225
+"Plaque, Amyloid"	MeSH:D058225
 Plasma	MeSH:D010949
-Polymorphism, Genetic	MeSH:D011110
-Polymorphism, Single Nucleotide	MeSH:D020641
+"Polymorphism, Genetic"	MeSH:D011110
+"Polymorphism, Single Nucleotide"	MeSH:D020641
 Positron-Emission Tomography	MeSH:D049268
 Prefrontal Cortex	MeSH:D017397
 Presenilin-1	MeSH:D053764
 Presenilin-2	MeSH:D053766
+Principal Component Analysis	MeSH:D025341
 Prodromal Symptoms	MeSH:D062706
 Progranulins	MeSH:D000077153
-Promoter Regions, Genetic	MeSH:D011401
+"Promoter Regions, Genetic"	MeSH:D011401
 Prospective Studies	MeSH:D011446
 Protective Factors	MeSH:D065840
 Protein Interaction Maps	MeSH:D060066
@@ -216,30 +222,32 @@ Proto-Oncogene Protein Spi-1	MeSH:D000099232
 Psychiatric Status Rating Scales	MeSH:D011569
 Psychotic Disorders	MeSH:D011618
 Quantitative Trait Loci	MeSH:D040641
-Quantitative Trait, Heritable	MeSH:D019655
+"Quantitative Trait, Heritable"	MeSH:D019655
 Racial Groups	MeSH:D044469
-Regulatory Sequences, Nucleic Acid	MeSH:D012045
+"Regulatory Sequences, Nucleic Acid"	MeSH:D012045
 Retrospective Studies	MeSH:D012189
 RNA	MeSH:D012313
 RNA Editing	MeSH:D017393
-RNA Processing, Post-Transcriptional	MeSH:D012323
+"RNA Processing, Post-Transcriptional"	MeSH:D012323
 RNA Splicing	MeSH:D012326
-RNA, Circular	MeSH:D000079962
-RNA, Long Noncoding	MeSH:D062085
-RNA, Messenger	MeSH:D012333
-RNA, Small Untranslated	MeSH:D058727
-RNA, Untranslated	MeSH:D022661
+"RNA, Circular"	MeSH:D000079962
+"RNA, Long Noncoding"	MeSH:D062085
+"RNA, Messenger"	MeSH:D012333
+"RNA, Ribosomal, 16S"	MeSH:D012336
+"RNA, Small Nuclear"	MeSH:D012342
+"RNA, Small Untranslated"	MeSH:D058727
+"RNA, Untranslated"	MeSH:D022661
 RNA-Seq	MeSH:D000081246
 Saliva	MeSH:D012463
 Schizophrenia	MeSH:D012559
-Sequence Analysis, DNA	MeSH:D017422
-Sequence Analysis, RNA	MeSH:D017423
+"Sequence Analysis, DNA"	MeSH:D017422
+"Sequence Analysis, RNA"	MeSH:D017423
 Sex Characteristics	MeSH:D012727
 Sex Factors	MeSH:D012737
 Single-Cell Analysis	MeSH:D059010
 Single-Cell Gene Expression Analysis	MeSH:D000092386
 South Asian People	MeSH:D000094853
-Supranuclear Palsy, Progressive	MeSH:D013494
+"Supranuclear Palsy, Progressive"	MeSH:D013494
 Synucleinopathies	MeSH:D000080874
 Systems Biology	MeSH:D049490
 Tandem Mass Spectrometry	MeSH:D053719
@@ -249,9 +257,8 @@ Tauopathies	MeSH:D024801
 TDP-43 Proteinopathies	MeSH:D057177
 Temporal Lobe	MeSH:D013702
 Transcription Factors	MeSH:D014157
-Transcription, Genetic	MeSH:D014158
+"Transcription, Genetic"	MeSH:D014158
 Transcriptome	MeSH:D059467
-Verbal Learning	MeSH:D014706
 White	MeSH:D000095223
 White Matter	MeSH:D066127
 White People	MeSH:D044465
