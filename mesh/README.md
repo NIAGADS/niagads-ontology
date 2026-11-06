@@ -33,6 +33,10 @@ The absence of a term does not necessarily mean that a study or dataset has
 no relevant subject matter; it may reflect missing publication links or
 publications without MeSH headings.
 
+the `-approved` versions of these files contain the same annotations, except
+filtered to retain reviewed and approved terms only.
+
+
 ## MeSH term review files
 
 The three `MeSH-*` files provide the reviewed term lists used to support
@@ -80,6 +84,22 @@ directory with:
 ```shell
 python3 generate_suggested_mesh_headings.py
 ```
+
+`annotation_to_json.py` is a simple script used to generate a JSON file containing
+a mapping of dataset accessions to lists of approved terms.  Default input is
+`dataset-MeSH-approved-annotations.txt`; default output is
+dataset-MeSH-approved-annotations.json", but these can be overridden using
+the `--input` and `--output` args, respectively.
+
+The JSON file contains an object whose keys are dataset accessions and values
+are arrays of annotation objects with two required string fields:
+
+- `term`: the approved MeSH heading.
+- `curie`: its MeSH identifier, represented as a CURIE; i.e., `MeSH:<identifier>`.
+
+> CURIE: Compact Uniform Resource Identifier a standardized, human-readable shorthand
+format used to abbreviate long IRIs (Internationalized Resource Identifiers), comprised
+of prefix representing the ontology namespace and the local unique identifier for the term.
 
 ## MeSH term exclusion criteria
 
