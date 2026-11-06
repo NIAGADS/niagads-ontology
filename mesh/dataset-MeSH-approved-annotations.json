@@ -1,0 +1,3872 @@
+{
+  "ng00196": [
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "DNA Repeat Expansion",
+      "curie": "MeSH:D042622"
+    },
+    {
+      "term": "Fragile X Syndrome",
+      "curie": "MeSH:D005600"
+    },
+    {
+      "term": "Friedreich Ataxia",
+      "curie": "MeSH:D005621"
+    },
+    {
+      "term": "High-Throughput Nucleotide Sequencing",
+      "curie": "MeSH:D059014"
+    },
+    {
+      "term": "Huntington Disease",
+      "curie": "MeSH:D006816"
+    },
+    {
+      "term": "Microsatellite Repeats",
+      "curie": "MeSH:D018895"
+    },
+    {
+      "term": "Whole Genome Sequencing",
+      "curie": "MeSH:D000073336"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    }
+  ],
+  "ng00191": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Brain",
+      "curie": "MeSH:D001921"
+    },
+    {
+      "term": "Biomarkers",
+      "curie": "MeSH:D015415"
+    },
+    {
+      "term": "Autophagy",
+      "curie": "MeSH:D001343"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    },
+    {
+      "term": "Lipid Metabolism",
+      "curie": "MeSH:D050356"
+    },
+    {
+      "term": "Amyloid beta-Peptides",
+      "curie": "MeSH:D016229"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Apolipoproteins E",
+      "curie": "MeSH:D001057"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    }
+  ],
+  "ng00106-v1": [
+    {
+      "term": "Aging",
+      "curie": "MeSH:D000375"
+    },
+    {
+      "term": "Dementia",
+      "curie": "MeSH:D003704"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Longitudinal Studies",
+      "curie": "MeSH:D008137"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Neuropsychological Tests",
+      "curie": "MeSH:D009483"
+    },
+    {
+      "term": "Prospective Studies",
+      "curie": "MeSH:D011446"
+    },
+    {
+      "term": "Cognition",
+      "curie": "MeSH:D003071"
+    },
+    {
+      "term": "Asian People",
+      "curie": "MeSH:D044466"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Genotyping Techniques",
+      "curie": "MeSH:D060005"
+    },
+    {
+      "term": "Memory, Episodic",
+      "curie": "MeSH:D061212"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "White People",
+      "curie": "MeSH:D044465"
+    }
+  ],
+  "ng00059": [
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Aging",
+      "curie": "MeSH:D000375"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Cerebral Cortex",
+      "curie": "MeSH:D002540"
+    },
+    {
+      "term": "Dementia",
+      "curie": "MeSH:D003704"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Gene Expression Profiling",
+      "curie": "MeSH:D020869"
+    },
+    {
+      "term": "Hippocampus",
+      "curie": "MeSH:D006624"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    }
+  ],
+  "ng00058": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Haplotypes",
+      "curie": "MeSH:D006239"
+    },
+    {
+      "term": "Linkage Disequilibrium",
+      "curie": "MeSH:D015810"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Transcription Factors",
+      "curie": "MeSH:D014157"
+    },
+    {
+      "term": "Proto-Oncogene Protein Spi-1",
+      "curie": "MeSH:D000099232"
+    },
+    {
+      "term": "Age of Onset",
+      "curie": "MeSH:D017668"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    },
+    {
+      "term": "Genetic Loci",
+      "curie": "MeSH:D056426"
+    }
+  ],
+  "ng00122": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Psychotic Disorders",
+      "curie": "MeSH:D011618"
+    },
+    {
+      "term": "Schizophrenia",
+      "curie": "MeSH:D012559"
+    }
+  ],
+  "ng00067-v20": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Genomics",
+      "curie": "MeSH:D023281"
+    },
+    {
+      "term": "High-Throughput Nucleotide Sequencing",
+      "curie": "MeSH:D059014"
+    },
+    {
+      "term": "Ethnicity",
+      "curie": "MeSH:D005006"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Linkage",
+      "curie": "MeSH:D008040"
+    },
+    {
+      "term": "Genetics, Population",
+      "curie": "MeSH:D005828"
+    },
+    {
+      "term": "Hispanic or Latino",
+      "curie": "MeSH:D006630"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Pedigree",
+      "curie": "MeSH:D010375"
+    },
+    {
+      "term": "Principal Component Analysis",
+      "curie": "MeSH:D025341"
+    },
+    {
+      "term": "Sequence Analysis, DNA",
+      "curie": "MeSH:D017422"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    },
+    {
+      "term": "Genotyping Techniques",
+      "curie": "MeSH:D060005"
+    },
+    {
+      "term": "Polymorphism, Genetic",
+      "curie": "MeSH:D011110"
+    },
+    {
+      "term": "Whole Genome Sequencing",
+      "curie": "MeSH:D000073336"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Molecular Sequence Annotation",
+      "curie": "MeSH:D058977"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    },
+    {
+      "term": "Dementia",
+      "curie": "MeSH:D003704"
+    },
+    {
+      "term": "Genetic Variation",
+      "curie": "MeSH:D014644"
+    }
+  ],
+  "ng00067-v19": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Genomics",
+      "curie": "MeSH:D023281"
+    },
+    {
+      "term": "High-Throughput Nucleotide Sequencing",
+      "curie": "MeSH:D059014"
+    },
+    {
+      "term": "Ethnicity",
+      "curie": "MeSH:D005006"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Linkage",
+      "curie": "MeSH:D008040"
+    },
+    {
+      "term": "Genetics, Population",
+      "curie": "MeSH:D005828"
+    },
+    {
+      "term": "Hispanic or Latino",
+      "curie": "MeSH:D006630"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Pedigree",
+      "curie": "MeSH:D010375"
+    },
+    {
+      "term": "Principal Component Analysis",
+      "curie": "MeSH:D025341"
+    },
+    {
+      "term": "Sequence Analysis, DNA",
+      "curie": "MeSH:D017422"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    },
+    {
+      "term": "Genotyping Techniques",
+      "curie": "MeSH:D060005"
+    },
+    {
+      "term": "Polymorphism, Genetic",
+      "curie": "MeSH:D011110"
+    },
+    {
+      "term": "Whole Genome Sequencing",
+      "curie": "MeSH:D000073336"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Molecular Sequence Annotation",
+      "curie": "MeSH:D058977"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    },
+    {
+      "term": "Dementia",
+      "curie": "MeSH:D003704"
+    },
+    {
+      "term": "Genetic Variation",
+      "curie": "MeSH:D014644"
+    }
+  ],
+  "ng00185": [
+    {
+      "term": "DNA Methylation",
+      "curie": "MeSH:D019175"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Saliva",
+      "curie": "MeSH:D012463"
+    },
+    {
+      "term": "Leukocytes, Mononuclear",
+      "curie": "MeSH:D007963"
+    },
+    {
+      "term": "Aging",
+      "curie": "MeSH:D000375"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Epigenesis, Genetic",
+      "curie": "MeSH:D044127"
+    }
+  ],
+  "ng00120": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Brain",
+      "curie": "MeSH:D001921"
+    },
+    {
+      "term": "Gene Expression Regulation",
+      "curie": "MeSH:D005786"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Quantitative Trait Loci",
+      "curie": "MeSH:D040641"
+    }
+  ],
+  "ng00176": [
+    {
+      "term": "Comparative Genomic Hybridization",
+      "curie": "MeSH:D055028"
+    },
+    {
+      "term": "DNA Copy Number Variations",
+      "curie": "MeSH:D056915"
+    },
+    {
+      "term": "High-Throughput Nucleotide Sequencing",
+      "curie": "MeSH:D059014"
+    },
+    {
+      "term": "Multiplex Polymerase Chain Reaction",
+      "curie": "MeSH:D060885"
+    },
+    {
+      "term": "Exome Sequencing",
+      "curie": "MeSH:D000073359"
+    }
+  ],
+  "ng00187": [
+    {
+      "term": "Cognition",
+      "curie": "MeSH:D003071"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Longitudinal Studies",
+      "curie": "MeSH:D008137"
+    },
+    {
+      "term": "Genomics",
+      "curie": "MeSH:D023281"
+    }
+  ],
+  "ng00186": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    },
+    {
+      "term": "Amyloid beta-Peptides",
+      "curie": "MeSH:D016229"
+    },
+    {
+      "term": "Biomarkers",
+      "curie": "MeSH:D015415"
+    }
+  ],
+  "ng00189": [
+    {
+      "term": "Cognitive Dysfunction",
+      "curie": "MeSH:D060825"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Dementia",
+      "curie": "MeSH:D003704"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Neuropsychological Tests",
+      "curie": "MeSH:D009483"
+    },
+    {
+      "term": "Apolipoproteins E",
+      "curie": "MeSH:D001057"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    }
+  ],
+  "ng00179": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Black People",
+      "curie": "MeSH:D044383"
+    },
+    {
+      "term": "Linkage Disequilibrium",
+      "curie": "MeSH:D015810"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    }
+  ],
+  "ng00183": [
+    {
+      "term": "Neurons",
+      "curie": "MeSH:D009474"
+    },
+    {
+      "term": "Chronic Traumatic Encephalopathy",
+      "curie": "MeSH:D000070627"
+    },
+    {
+      "term": "Prefrontal Cortex",
+      "curie": "MeSH:D017397"
+    },
+    {
+      "term": "Single-Cell Analysis",
+      "curie": "MeSH:D059010"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Whole Genome Sequencing",
+      "curie": "MeSH:D000073336"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    }
+  ],
+  "ng00180": [
+    {
+      "term": "Diabetes Mellitus, Type 2",
+      "curie": "MeSH:D003924"
+    },
+    {
+      "term": "Quantitative Trait Loci",
+      "curie": "MeSH:D040641"
+    },
+    {
+      "term": "Black People",
+      "curie": "MeSH:D044383"
+    },
+    {
+      "term": "White People",
+      "curie": "MeSH:D044465"
+    },
+    {
+      "term": "Blood Proteins",
+      "curie": "MeSH:D001798"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Metabolomics",
+      "curie": "MeSH:D055432"
+    },
+    {
+      "term": "Proteomics",
+      "curie": "MeSH:D040901"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    }
+  ],
+  "ng00182": [
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Apolipoproteins E",
+      "curie": "MeSH:D001057"
+    },
+    {
+      "term": "East Asian People",
+      "curie": "MeSH:D000095225"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Whole Genome Sequencing",
+      "curie": "MeSH:D000073336"
+    }
+  ],
+  "ng00175": [
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Endophenotypes",
+      "curie": "MeSH:D058068"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Dementia",
+      "curie": "MeSH:D003704"
+    },
+    {
+      "term": "Quantitative Trait Loci",
+      "curie": "MeSH:D040641"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Neuropathology",
+      "curie": "MeSH:D000069338"
+    }
+  ],
+  "ng00177": [
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Black or African American",
+      "curie": "MeSH:D001741"
+    },
+    {
+      "term": "Genetic Loci",
+      "curie": "MeSH:D056426"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Hispanic or Latino",
+      "curie": "MeSH:D006630"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "White",
+      "curie": "MeSH:D000095223"
+    },
+    {
+      "term": "Amyloid beta-Peptides",
+      "curie": "MeSH:D016229"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Haplotypes",
+      "curie": "MeSH:D006239"
+    },
+    {
+      "term": "Immunity",
+      "curie": "MeSH:D007109"
+    },
+    {
+      "term": "Lipid Metabolism",
+      "curie": "MeSH:D050356"
+    },
+    {
+      "term": "Lipids",
+      "curie": "MeSH:D008055"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    },
+    {
+      "term": "Age of Onset",
+      "curie": "MeSH:D017668"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    },
+    {
+      "term": "Genetic Variation",
+      "curie": "MeSH:D014644"
+    }
+  ],
+  "ng00075": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Amyloid beta-Peptides",
+      "curie": "MeSH:D016229"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Loci",
+      "curie": "MeSH:D056426"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Haplotypes",
+      "curie": "MeSH:D006239"
+    },
+    {
+      "term": "Immunity",
+      "curie": "MeSH:D007109"
+    },
+    {
+      "term": "Lipid Metabolism",
+      "curie": "MeSH:D050356"
+    },
+    {
+      "term": "Lipids",
+      "curie": "MeSH:D008055"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    }
+  ],
+  "ng00178": [
+    {
+      "term": "Amyotrophic Lateral Sclerosis",
+      "curie": "MeSH:D000690"
+    },
+    {
+      "term": "Cerebellum",
+      "curie": "MeSH:D002531"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Transcriptome",
+      "curie": "MeSH:D059467"
+    },
+    {
+      "term": "Brain",
+      "curie": "MeSH:D001921"
+    },
+    {
+      "term": "Gene Expression Profiling",
+      "curie": "MeSH:D020869"
+    },
+    {
+      "term": "Motor Cortex",
+      "curie": "MeSH:D009044"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "RNA",
+      "curie": "MeSH:D012313"
+    }
+  ],
+  "ng00035": [
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Amyloid beta-Peptides",
+      "curie": "MeSH:D016229"
+    },
+    {
+      "term": "Apolipoproteins E",
+      "curie": "MeSH:D001057"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "DNA-Binding Proteins",
+      "curie": "MeSH:D004268"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Phenotype",
+      "curie": "MeSH:D010641"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Transcription Factors",
+      "curie": "MeSH:D014157"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    }
+  ],
+  "ng00100": [
+    {
+      "term": "Black or African American",
+      "curie": "MeSH:D001741"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Loci",
+      "curie": "MeSH:D056426"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    }
+  ],
+  "ng00095": [
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Aging",
+      "curie": "MeSH:D000375"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Autopsy",
+      "curie": "MeSH:D001344"
+    },
+    {
+      "term": "Brain",
+      "curie": "MeSH:D001921"
+    },
+    {
+      "term": "Epidemiologic Studies",
+      "curie": "MeSH:D016021"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Longitudinal Studies",
+      "curie": "MeSH:D008137"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Neuropsychological Tests",
+      "curie": "MeSH:D009483"
+    },
+    {
+      "term": "Cognition",
+      "curie": "MeSH:D003071"
+    },
+    {
+      "term": "Cognition Disorders",
+      "curie": "MeSH:D003072"
+    },
+    {
+      "term": "Dementia",
+      "curie": "MeSH:D003704"
+    },
+    {
+      "term": "Memory",
+      "curie": "MeSH:D008568"
+    },
+    {
+      "term": "Amyloid beta-Peptides",
+      "curie": "MeSH:D016229"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Genetic Loci",
+      "curie": "MeSH:D056426"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Haplotypes",
+      "curie": "MeSH:D006239"
+    },
+    {
+      "term": "Immunity",
+      "curie": "MeSH:D007109"
+    },
+    {
+      "term": "Lipid Metabolism",
+      "curie": "MeSH:D050356"
+    },
+    {
+      "term": "Lipids",
+      "curie": "MeSH:D008055"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    }
+  ],
+  "ng00093": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Amyloid beta-Peptides",
+      "curie": "MeSH:D016229"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Loci",
+      "curie": "MeSH:D056426"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Haplotypes",
+      "curie": "MeSH:D006239"
+    },
+    {
+      "term": "Immunity",
+      "curie": "MeSH:D007109"
+    },
+    {
+      "term": "Lipid Metabolism",
+      "curie": "MeSH:D050356"
+    },
+    {
+      "term": "Lipids",
+      "curie": "MeSH:D008055"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    }
+  ],
+  "ng00087": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Amyloid beta-Peptides",
+      "curie": "MeSH:D016229"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Loci",
+      "curie": "MeSH:D056426"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Haplotypes",
+      "curie": "MeSH:D006239"
+    },
+    {
+      "term": "Immunity",
+      "curie": "MeSH:D007109"
+    },
+    {
+      "term": "Lipid Metabolism",
+      "curie": "MeSH:D050356"
+    },
+    {
+      "term": "Lipids",
+      "curie": "MeSH:D008055"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    }
+  ],
+  "ng00082": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Neurodegenerative Diseases",
+      "curie": "MeSH:D019636"
+    },
+    {
+      "term": "Apolipoproteins E",
+      "curie": "MeSH:D001057"
+    }
+  ],
+  "ng00052": [
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Apolipoprotein E4",
+      "curie": "MeSH:D053327"
+    },
+    {
+      "term": "Apolipoproteins E",
+      "curie": "MeSH:D001057"
+    },
+    {
+      "term": "Biomarkers",
+      "curie": "MeSH:D015415"
+    },
+    {
+      "term": "Clusterin",
+      "curie": "MeSH:D051152"
+    },
+    {
+      "term": "Endophenotypes",
+      "curie": "MeSH:D058068"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Immunity",
+      "curie": "MeSH:D007109"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Nerve Degeneration",
+      "curie": "MeSH:D009410"
+    }
+  ],
+  "ng00050": [
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Apolipoprotein E4",
+      "curie": "MeSH:D053327"
+    },
+    {
+      "term": "Apolipoproteins E",
+      "curie": "MeSH:D001057"
+    },
+    {
+      "term": "Biomarkers",
+      "curie": "MeSH:D015415"
+    },
+    {
+      "term": "Clusterin",
+      "curie": "MeSH:D051152"
+    },
+    {
+      "term": "Endophenotypes",
+      "curie": "MeSH:D058068"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Immunity",
+      "curie": "MeSH:D007109"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Nerve Degeneration",
+      "curie": "MeSH:D009410"
+    }
+  ],
+  "ng00049": [
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Amyloid beta-Peptides",
+      "curie": "MeSH:D016229"
+    },
+    {
+      "term": "Apolipoproteins E",
+      "curie": "MeSH:D001057"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "DNA-Binding Proteins",
+      "curie": "MeSH:D004268"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Phenotype",
+      "curie": "MeSH:D010641"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Transcription Factors",
+      "curie": "MeSH:D014157"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    }
+  ],
+  "ng00030": [
+    {
+      "term": "Age of Onset",
+      "curie": "MeSH:D017668"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genetic Variation",
+      "curie": "MeSH:D014644"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Clusterin",
+      "curie": "MeSH:D051152"
+    }
+  ],
+  "ng00029": [
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Aging",
+      "curie": "MeSH:D000375"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Autopsy",
+      "curie": "MeSH:D001344"
+    },
+    {
+      "term": "Brain",
+      "curie": "MeSH:D001921"
+    },
+    {
+      "term": "Epidemiologic Studies",
+      "curie": "MeSH:D016021"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Longitudinal Studies",
+      "curie": "MeSH:D008137"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Neuropsychological Tests",
+      "curie": "MeSH:D009483"
+    },
+    {
+      "term": "Cognition",
+      "curie": "MeSH:D003071"
+    },
+    {
+      "term": "Cognition Disorders",
+      "curie": "MeSH:D003072"
+    },
+    {
+      "term": "Dementia",
+      "curie": "MeSH:D003704"
+    },
+    {
+      "term": "Memory",
+      "curie": "MeSH:D008568"
+    },
+    {
+      "term": "Apolipoproteins E",
+      "curie": "MeSH:D001057"
+    },
+    {
+      "term": "Genetic Variation",
+      "curie": "MeSH:D014644"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    }
+  ],
+  "ng00026": [
+    {
+      "term": "Age of Onset",
+      "curie": "MeSH:D017668"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genetic Variation",
+      "curie": "MeSH:D014644"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Apolipoproteins E",
+      "curie": "MeSH:D001057"
+    },
+    {
+      "term": "White People",
+      "curie": "MeSH:D044465"
+    }
+  ],
+  "ng00020": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Apolipoproteins E",
+      "curie": "MeSH:D001057"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Chromosome Mapping",
+      "curie": "MeSH:D002874"
+    },
+    {
+      "term": "Genetic Linkage",
+      "curie": "MeSH:D008040"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genetic Variation",
+      "curie": "MeSH:D014644"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    }
+  ],
+  "ng00174": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Neurons",
+      "curie": "MeSH:D009474"
+    },
+    {
+      "term": "Microglia",
+      "curie": "MeSH:D017628"
+    },
+    {
+      "term": "Temporal Lobe",
+      "curie": "MeSH:D013702"
+    },
+    {
+      "term": "Disease Progression",
+      "curie": "MeSH:D018450"
+    },
+    {
+      "term": "Astrocytes",
+      "curie": "MeSH:D001253"
+    }
+  ],
+  "ng00169": [
+    {
+      "term": "Supranuclear Palsy, Progressive",
+      "curie": "MeSH:D013494"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Quantitative Trait Loci",
+      "curie": "MeSH:D040641"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    },
+    {
+      "term": "Transcriptome",
+      "curie": "MeSH:D059467"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Neuroglia",
+      "curie": "MeSH:D009457"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Oligodendroglia",
+      "curie": "MeSH:D009836"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    },
+    {
+      "term": "Genetic Loci",
+      "curie": "MeSH:D056426"
+    },
+    {
+      "term": "Genetic Variation",
+      "curie": "MeSH:D014644"
+    },
+    {
+      "term": "Tauopathies",
+      "curie": "MeSH:D024801"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    },
+    {
+      "term": "Neurodegenerative Diseases",
+      "curie": "MeSH:D019636"
+    }
+  ],
+  "ng00166": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Whole Genome Sequencing",
+      "curie": "MeSH:D000073336"
+    },
+    {
+      "term": "Apolipoproteins E",
+      "curie": "MeSH:D001057"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Presenilin-1",
+      "curie": "MeSH:D053764"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genetic Variation",
+      "curie": "MeSH:D014644"
+    },
+    {
+      "term": "Nuclear Proteins",
+      "curie": "MeSH:D009687"
+    },
+    {
+      "term": "Haplotypes",
+      "curie": "MeSH:D006239"
+    }
+  ],
+  "ng00165": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Whole Genome Sequencing",
+      "curie": "MeSH:D000073336"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Genetic Variation",
+      "curie": "MeSH:D014644"
+    }
+  ],
+  "ng00162": [
+    {
+      "term": "Aging",
+      "curie": "MeSH:D000375"
+    },
+    {
+      "term": "Chromatin",
+      "curie": "MeSH:D002843"
+    },
+    {
+      "term": "Mutation",
+      "curie": "MeSH:D009154"
+    },
+    {
+      "term": "Neurons",
+      "curie": "MeSH:D009474"
+    },
+    {
+      "term": "Oligodendroglia",
+      "curie": "MeSH:D009836"
+    },
+    {
+      "term": "Single-Cell Gene Expression Analysis",
+      "curie": "MeSH:D000092386"
+    },
+    {
+      "term": "Whole Genome Sequencing",
+      "curie": "MeSH:D000073336"
+    },
+    {
+      "term": "Brain",
+      "curie": "MeSH:D001921"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "INDEL Mutation",
+      "curie": "MeSH:D054643"
+    },
+    {
+      "term": "Oligodendrocyte Precursor Cells",
+      "curie": "MeSH:D000073637"
+    }
+  ],
+  "ng00146": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Cerebral Cortex",
+      "curie": "MeSH:D002540"
+    },
+    {
+      "term": "Cerebral Infarction",
+      "curie": "MeSH:D002544"
+    },
+    {
+      "term": "Dementia, Vascular",
+      "curie": "MeSH:D015140"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Magnetic Resonance Imaging",
+      "curie": "MeSH:D008279"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Memory",
+      "curie": "MeSH:D008568"
+    },
+    {
+      "term": "Neuropsychological Tests",
+      "curie": "MeSH:D009483"
+    },
+    {
+      "term": "Cognitive Dysfunction",
+      "curie": "MeSH:D060825"
+    },
+    {
+      "term": "Cross-Sectional Studies",
+      "curie": "MeSH:D003430"
+    },
+    {
+      "term": "Dementia",
+      "curie": "MeSH:D003704"
+    },
+    {
+      "term": "Prospective Studies",
+      "curie": "MeSH:D011446"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Atrophy",
+      "curie": "MeSH:D001284"
+    },
+    {
+      "term": "Cognition Disorders",
+      "curie": "MeSH:D003072"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    }
+  ],
+  "ng00147": [
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Amyloid",
+      "curie": "MeSH:D000682"
+    },
+    {
+      "term": "Cognitive Dysfunction",
+      "curie": "MeSH:D060825"
+    },
+    {
+      "term": "Dementia",
+      "curie": "MeSH:D003704"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Longitudinal Studies",
+      "curie": "MeSH:D008137"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Plaque, Amyloid",
+      "curie": "MeSH:D058225"
+    },
+    {
+      "term": "Positron-Emission Tomography",
+      "curie": "MeSH:D049268"
+    }
+  ],
+  "ng00161": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Cognition",
+      "curie": "MeSH:D003071"
+    },
+    {
+      "term": "Cognitive Dysfunction",
+      "curie": "MeSH:D060825"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Multiple Sclerosis",
+      "curie": "MeSH:D009103"
+    },
+    {
+      "term": "Sex Characteristics",
+      "curie": "MeSH:D012727"
+    }
+  ],
+  "ng00158": [
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Amyloid beta-Peptides",
+      "curie": "MeSH:D016229"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Sex Characteristics",
+      "curie": "MeSH:D012727"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    }
+  ],
+  "ng00157": [
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Amyloid beta-Peptides",
+      "curie": "MeSH:D016229"
+    },
+    {
+      "term": "Amyloidosis",
+      "curie": "MeSH:D000686"
+    },
+    {
+      "term": "Apolipoproteins E",
+      "curie": "MeSH:D001057"
+    },
+    {
+      "term": "Biomarkers",
+      "curie": "MeSH:D015415"
+    },
+    {
+      "term": "Brain",
+      "curie": "MeSH:D001921"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Mutation",
+      "curie": "MeSH:D009154"
+    },
+    {
+      "term": "Sex Factors",
+      "curie": "MeSH:D012737"
+    },
+    {
+      "term": "Transcription Factors",
+      "curie": "MeSH:D014157"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    }
+  ],
+  "ng00103": [
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Amyloidosis",
+      "curie": "MeSH:D000686"
+    },
+    {
+      "term": "Brain",
+      "curie": "MeSH:D001921"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    },
+    {
+      "term": "Early Diagnosis",
+      "curie": "MeSH:D042241"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Association Studies",
+      "curie": "MeSH:D056726"
+    },
+    {
+      "term": "Genetic Variation",
+      "curie": "MeSH:D014644"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Prodromal Symptoms",
+      "curie": "MeSH:D062706"
+    }
+  ],
+  "ng00156": [
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Aging",
+      "curie": "MeSH:D000375"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Brain",
+      "curie": "MeSH:D001921"
+    },
+    {
+      "term": "Cognitive Dysfunction",
+      "curie": "MeSH:D060825"
+    },
+    {
+      "term": "Cognitive Reserve",
+      "curie": "MeSH:D058245"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    }
+  ],
+  "ng00145": [
+    {
+      "term": "Apolipoproteins E",
+      "curie": "MeSH:D001057"
+    },
+    {
+      "term": "Cognition",
+      "curie": "MeSH:D003071"
+    },
+    {
+      "term": "Aging",
+      "curie": "MeSH:D000375"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Longitudinal Studies",
+      "curie": "MeSH:D008137"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    }
+  ],
+  "ng00116": [
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Mutation",
+      "curie": "MeSH:D009154"
+    }
+  ],
+  "ng00159": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Endophenotypes",
+      "curie": "MeSH:D058068"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Cognition",
+      "curie": "MeSH:D003071"
+    },
+    {
+      "term": "Memory Disorders",
+      "curie": "MeSH:D008569"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    }
+  ],
+  "ng00071": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Amino Acid Sequence",
+      "curie": "MeSH:D000595"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Exome",
+      "curie": "MeSH:D059472"
+    },
+    {
+      "term": "Gene Expression Profiling",
+      "curie": "MeSH:D020869"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    },
+    {
+      "term": "Immunity, Innate",
+      "curie": "MeSH:D007113"
+    },
+    {
+      "term": "Linkage Disequilibrium",
+      "curie": "MeSH:D015810"
+    },
+    {
+      "term": "Microglia",
+      "curie": "MeSH:D017628"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Protein Interaction Maps",
+      "curie": "MeSH:D060066"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Amyloid beta-Protein Precursor",
+      "curie": "MeSH:D016564"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Pedigree",
+      "curie": "MeSH:D010375"
+    },
+    {
+      "term": "Protective Factors",
+      "curie": "MeSH:D065840"
+    },
+    {
+      "term": "Cognitive Dysfunction",
+      "curie": "MeSH:D060825"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    }
+  ],
+  "ng00070": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Amino Acid Sequence",
+      "curie": "MeSH:D000595"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Exome",
+      "curie": "MeSH:D059472"
+    },
+    {
+      "term": "Gene Expression Profiling",
+      "curie": "MeSH:D020869"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    },
+    {
+      "term": "Immunity, Innate",
+      "curie": "MeSH:D007113"
+    },
+    {
+      "term": "Linkage Disequilibrium",
+      "curie": "MeSH:D015810"
+    },
+    {
+      "term": "Microglia",
+      "curie": "MeSH:D017628"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Protein Interaction Maps",
+      "curie": "MeSH:D060066"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Amyloid beta-Protein Precursor",
+      "curie": "MeSH:D016564"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Pedigree",
+      "curie": "MeSH:D010375"
+    },
+    {
+      "term": "Protective Factors",
+      "curie": "MeSH:D065840"
+    },
+    {
+      "term": "Cognitive Dysfunction",
+      "curie": "MeSH:D060825"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    }
+  ],
+  "ng00069": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Amino Acid Sequence",
+      "curie": "MeSH:D000595"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Exome",
+      "curie": "MeSH:D059472"
+    },
+    {
+      "term": "Gene Expression Profiling",
+      "curie": "MeSH:D020869"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    },
+    {
+      "term": "Immunity, Innate",
+      "curie": "MeSH:D007113"
+    },
+    {
+      "term": "Linkage Disequilibrium",
+      "curie": "MeSH:D015810"
+    },
+    {
+      "term": "Microglia",
+      "curie": "MeSH:D017628"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Protein Interaction Maps",
+      "curie": "MeSH:D060066"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Amyloid beta-Protein Precursor",
+      "curie": "MeSH:D016564"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Pedigree",
+      "curie": "MeSH:D010375"
+    },
+    {
+      "term": "Protective Factors",
+      "curie": "MeSH:D065840"
+    },
+    {
+      "term": "Cognitive Dysfunction",
+      "curie": "MeSH:D060825"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    }
+  ],
+  "ng00068": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Amino Acid Sequence",
+      "curie": "MeSH:D000595"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Exome",
+      "curie": "MeSH:D059472"
+    },
+    {
+      "term": "Gene Expression Profiling",
+      "curie": "MeSH:D020869"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    },
+    {
+      "term": "Immunity, Innate",
+      "curie": "MeSH:D007113"
+    },
+    {
+      "term": "Linkage Disequilibrium",
+      "curie": "MeSH:D015810"
+    },
+    {
+      "term": "Microglia",
+      "curie": "MeSH:D017628"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Protein Interaction Maps",
+      "curie": "MeSH:D060066"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Amyloid beta-Protein Precursor",
+      "curie": "MeSH:D016564"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Pedigree",
+      "curie": "MeSH:D010375"
+    },
+    {
+      "term": "Protective Factors",
+      "curie": "MeSH:D065840"
+    },
+    {
+      "term": "Cognitive Dysfunction",
+      "curie": "MeSH:D060825"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    }
+  ],
+  "ng00024": [
+    {
+      "term": "Age of Onset",
+      "curie": "MeSH:D017668"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genetic Variation",
+      "curie": "MeSH:D014644"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Genetic Loci",
+      "curie": "MeSH:D056426"
+    },
+    {
+      "term": "Apolipoprotein E4",
+      "curie": "MeSH:D053327"
+    },
+    {
+      "term": "Black or African American",
+      "curie": "MeSH:D001741"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    },
+    {
+      "term": "Linkage Disequilibrium",
+      "curie": "MeSH:D015810"
+    },
+    {
+      "term": "Amyloid beta-Peptides",
+      "curie": "MeSH:D016229"
+    },
+    {
+      "term": "Haplotypes",
+      "curie": "MeSH:D006239"
+    },
+    {
+      "term": "Immunity",
+      "curie": "MeSH:D007109"
+    },
+    {
+      "term": "Lipid Metabolism",
+      "curie": "MeSH:D050356"
+    },
+    {
+      "term": "Lipids",
+      "curie": "MeSH:D008055"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    },
+    {
+      "term": "Amino Acid Sequence",
+      "curie": "MeSH:D000595"
+    },
+    {
+      "term": "Exome",
+      "curie": "MeSH:D059472"
+    },
+    {
+      "term": "Gene Expression Profiling",
+      "curie": "MeSH:D020869"
+    },
+    {
+      "term": "Immunity, Innate",
+      "curie": "MeSH:D007113"
+    },
+    {
+      "term": "Microglia",
+      "curie": "MeSH:D017628"
+    },
+    {
+      "term": "Protein Interaction Maps",
+      "curie": "MeSH:D060066"
+    },
+    {
+      "term": "Cognitive Dysfunction",
+      "curie": "MeSH:D060825"
+    }
+  ],
+  "ng00023": [
+    {
+      "term": "Age of Onset",
+      "curie": "MeSH:D017668"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genetic Variation",
+      "curie": "MeSH:D014644"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Genetic Loci",
+      "curie": "MeSH:D056426"
+    },
+    {
+      "term": "Apolipoprotein E4",
+      "curie": "MeSH:D053327"
+    },
+    {
+      "term": "Black or African American",
+      "curie": "MeSH:D001741"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    },
+    {
+      "term": "Linkage Disequilibrium",
+      "curie": "MeSH:D015810"
+    },
+    {
+      "term": "Amyloid beta-Peptides",
+      "curie": "MeSH:D016229"
+    },
+    {
+      "term": "Haplotypes",
+      "curie": "MeSH:D006239"
+    },
+    {
+      "term": "Immunity",
+      "curie": "MeSH:D007109"
+    },
+    {
+      "term": "Lipid Metabolism",
+      "curie": "MeSH:D050356"
+    },
+    {
+      "term": "Lipids",
+      "curie": "MeSH:D008055"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    },
+    {
+      "term": "Amino Acid Sequence",
+      "curie": "MeSH:D000595"
+    },
+    {
+      "term": "Exome",
+      "curie": "MeSH:D059472"
+    },
+    {
+      "term": "Gene Expression Profiling",
+      "curie": "MeSH:D020869"
+    },
+    {
+      "term": "Immunity, Innate",
+      "curie": "MeSH:D007113"
+    },
+    {
+      "term": "Microglia",
+      "curie": "MeSH:D017628"
+    },
+    {
+      "term": "Protein Interaction Maps",
+      "curie": "MeSH:D060066"
+    },
+    {
+      "term": "Cognitive Dysfunction",
+      "curie": "MeSH:D060825"
+    }
+  ],
+  "ng00022": [
+    {
+      "term": "Age of Onset",
+      "curie": "MeSH:D017668"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genetic Variation",
+      "curie": "MeSH:D014644"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Genetic Loci",
+      "curie": "MeSH:D056426"
+    },
+    {
+      "term": "Apolipoprotein E4",
+      "curie": "MeSH:D053327"
+    },
+    {
+      "term": "Black or African American",
+      "curie": "MeSH:D001741"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    },
+    {
+      "term": "Linkage Disequilibrium",
+      "curie": "MeSH:D015810"
+    },
+    {
+      "term": "Amyloid beta-Peptides",
+      "curie": "MeSH:D016229"
+    },
+    {
+      "term": "Haplotypes",
+      "curie": "MeSH:D006239"
+    },
+    {
+      "term": "Immunity",
+      "curie": "MeSH:D007109"
+    },
+    {
+      "term": "Lipid Metabolism",
+      "curie": "MeSH:D050356"
+    },
+    {
+      "term": "Lipids",
+      "curie": "MeSH:D008055"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    },
+    {
+      "term": "Amino Acid Sequence",
+      "curie": "MeSH:D000595"
+    },
+    {
+      "term": "Exome",
+      "curie": "MeSH:D059472"
+    },
+    {
+      "term": "Gene Expression Profiling",
+      "curie": "MeSH:D020869"
+    },
+    {
+      "term": "Immunity, Innate",
+      "curie": "MeSH:D007113"
+    },
+    {
+      "term": "Microglia",
+      "curie": "MeSH:D017628"
+    },
+    {
+      "term": "Protein Interaction Maps",
+      "curie": "MeSH:D060066"
+    },
+    {
+      "term": "Cognitive Dysfunction",
+      "curie": "MeSH:D060825"
+    }
+  ],
+  "ng00138": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Cognitive Dysfunction",
+      "curie": "MeSH:D060825"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    }
+  ],
+  "ng00137": [
+    {
+      "term": "Black or African American",
+      "curie": "MeSH:D001741"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Loci",
+      "curie": "MeSH:D056426"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Cognitive Dysfunction",
+      "curie": "MeSH:D060825"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    }
+  ],
+  "ng00136": [
+    {
+      "term": "Black or African American",
+      "curie": "MeSH:D001741"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Loci",
+      "curie": "MeSH:D056426"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Cognitive Dysfunction",
+      "curie": "MeSH:D060825"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    }
+  ],
+  "ng00160": [
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Cognition",
+      "curie": "MeSH:D003071"
+    },
+    {
+      "term": "Sex Characteristics",
+      "curie": "MeSH:D012727"
+    },
+    {
+      "term": "Cognitive Aging",
+      "curie": "MeSH:D000066492"
+    }
+  ],
+  "ng00153": [
+    {
+      "term": "Aging",
+      "curie": "MeSH:D000375"
+    },
+    {
+      "term": "DNA Methylation",
+      "curie": "MeSH:D019175"
+    },
+    {
+      "term": "Epigenesis, Genetic",
+      "curie": "MeSH:D044127"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Racial Groups",
+      "curie": "MeSH:D044469"
+    },
+    {
+      "term": "Sex Factors",
+      "curie": "MeSH:D012737"
+    },
+    {
+      "term": "Cross-Sectional Studies",
+      "curie": "MeSH:D003430"
+    },
+    {
+      "term": "Biomarkers",
+      "curie": "MeSH:D015415"
+    }
+  ],
+  "ng00067": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Genomics",
+      "curie": "MeSH:D023281"
+    },
+    {
+      "term": "High-Throughput Nucleotide Sequencing",
+      "curie": "MeSH:D059014"
+    },
+    {
+      "term": "Ethnicity",
+      "curie": "MeSH:D005006"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Linkage",
+      "curie": "MeSH:D008040"
+    },
+    {
+      "term": "Genetics, Population",
+      "curie": "MeSH:D005828"
+    },
+    {
+      "term": "Hispanic or Latino",
+      "curie": "MeSH:D006630"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Pedigree",
+      "curie": "MeSH:D010375"
+    },
+    {
+      "term": "Principal Component Analysis",
+      "curie": "MeSH:D025341"
+    },
+    {
+      "term": "Sequence Analysis, DNA",
+      "curie": "MeSH:D017422"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    },
+    {
+      "term": "Genotyping Techniques",
+      "curie": "MeSH:D060005"
+    },
+    {
+      "term": "Polymorphism, Genetic",
+      "curie": "MeSH:D011110"
+    },
+    {
+      "term": "Whole Genome Sequencing",
+      "curie": "MeSH:D000073336"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Molecular Sequence Annotation",
+      "curie": "MeSH:D058977"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Case-Control Studies",
+      "curie": "MeSH:D016022"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    },
+    {
+      "term": "Dementia",
+      "curie": "MeSH:D003704"
+    },
+    {
+      "term": "Genetic Variation",
+      "curie": "MeSH:D014644"
+    }
+  ],
+  "ng00141": [
+    {
+      "term": "Aging",
+      "curie": "MeSH:D000375"
+    },
+    {
+      "term": "Cognition",
+      "curie": "MeSH:D003071"
+    },
+    {
+      "term": "Cognitive Dysfunction",
+      "curie": "MeSH:D060825"
+    },
+    {
+      "term": "Dementia",
+      "curie": "MeSH:D003704"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Hispanic or Latino",
+      "curie": "MeSH:D006630"
+    },
+    {
+      "term": "Longitudinal Studies",
+      "curie": "MeSH:D008137"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Biomarkers",
+      "curie": "MeSH:D015415"
+    },
+    {
+      "term": "Cognition Disorders",
+      "curie": "MeSH:D003072"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    },
+    {
+      "term": "Cross-Sectional Studies",
+      "curie": "MeSH:D003430"
+    },
+    {
+      "term": "Sex Factors",
+      "curie": "MeSH:D012737"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Apolipoprotein E4",
+      "curie": "MeSH:D053327"
+    },
+    {
+      "term": "Diabetes Mellitus, Type 2",
+      "curie": "MeSH:D003924"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    },
+    {
+      "term": "Mental Status Schedule",
+      "curie": "MeSH:D008609"
+    },
+    {
+      "term": "Mexican Americans",
+      "curie": "MeSH:D017058"
+    },
+    {
+      "term": "Neuropsychological Tests",
+      "curie": "MeSH:D009483"
+    },
+    {
+      "term": "Memory, Episodic",
+      "curie": "MeSH:D061212"
+    },
+    {
+      "term": "Depression",
+      "curie": "MeSH:D003863"
+    }
+  ],
+  "ng00102": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Brain",
+      "curie": "MeSH:D001921"
+    },
+    {
+      "term": "Cerebrospinal Fluid",
+      "curie": "MeSH:D002555"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Gene Expression Regulation",
+      "curie": "MeSH:D005786"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Plasma",
+      "curie": "MeSH:D010949"
+    },
+    {
+      "term": "Proteome",
+      "curie": "MeSH:D020543"
+    },
+    {
+      "term": "Proteomics",
+      "curie": "MeSH:D040901"
+    },
+    {
+      "term": "Quantitative Trait Loci",
+      "curie": "MeSH:D040641"
+    }
+  ],
+  "ng00135": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Neurodegenerative Diseases",
+      "curie": "MeSH:D019636"
+    },
+    {
+      "term": "Apolipoproteins E",
+      "curie": "MeSH:D001057"
+    }
+  ],
+  "ng00148": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Brain",
+      "curie": "MeSH:D001921"
+    },
+    {
+      "term": "Exome",
+      "curie": "MeSH:D059472"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    }
+  ],
+  "ng00144": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Multifactorial Inheritance",
+      "curie": "MeSH:D020412"
+    }
+  ],
+  "ng00118": [
+    {
+      "term": "Brain",
+      "curie": "MeSH:D001921"
+    },
+    {
+      "term": "Genomic Structural Variation",
+      "curie": "MeSH:D056914"
+    },
+    {
+      "term": "Quantitative Trait Loci",
+      "curie": "MeSH:D040641"
+    },
+    {
+      "term": "Whole Genome Sequencing",
+      "curie": "MeSH:D000073336"
+    }
+  ],
+  "ng00127": [
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Brain",
+      "curie": "MeSH:D001921"
+    },
+    {
+      "term": "Cerebrospinal Fluid",
+      "curie": "MeSH:D002555"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Gene Expression Regulation",
+      "curie": "MeSH:D005786"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Plasma",
+      "curie": "MeSH:D010949"
+    },
+    {
+      "term": "Proteome",
+      "curie": "MeSH:D020543"
+    },
+    {
+      "term": "Proteomics",
+      "curie": "MeSH:D040901"
+    },
+    {
+      "term": "Quantitative Trait Loci",
+      "curie": "MeSH:D040641"
+    },
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Amyloid beta-Peptides",
+      "curie": "MeSH:D016229"
+    },
+    {
+      "term": "Amyloidosis",
+      "curie": "MeSH:D000686"
+    },
+    {
+      "term": "Apolipoprotein E4",
+      "curie": "MeSH:D053327"
+    },
+    {
+      "term": "Biomarkers",
+      "curie": "MeSH:D015415"
+    },
+    {
+      "term": "Disease Susceptibility",
+      "curie": "MeSH:D004198"
+    },
+    {
+      "term": "Endophenotypes",
+      "curie": "MeSH:D058068"
+    },
+    {
+      "term": "Positron-Emission Tomography",
+      "curie": "MeSH:D049268"
+    },
+    {
+      "term": "tau Proteins",
+      "curie": "MeSH:D016875"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    },
+    {
+      "term": "Genetic Variation",
+      "curie": "MeSH:D014644"
+    },
+    {
+      "term": "Phenotype",
+      "curie": "MeSH:D010641"
+    },
+    {
+      "term": "Genomics",
+      "curie": "MeSH:D023281"
+    },
+    {
+      "term": "Dementia",
+      "curie": "MeSH:D003704"
+    },
+    {
+      "term": "Multiomics",
+      "curie": "MeSH:D000095028"
+    }
+  ],
+  "ng00104": [
+    {
+      "term": "Aged, 80 and over",
+      "curie": "MeSH:D000369"
+    },
+    {
+      "term": "Dementia",
+      "curie": "MeSH:D003704"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Follow-Up Studies",
+      "curie": "MeSH:D005500"
+    },
+    {
+      "term": "Longitudinal Studies",
+      "curie": "MeSH:D008137"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Psychiatric Status Rating Scales",
+      "curie": "MeSH:D011569"
+    },
+    {
+      "term": "Sex Factors",
+      "curie": "MeSH:D012737"
+    },
+    {
+      "term": "Aging",
+      "curie": "MeSH:D000375"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Autopsy",
+      "curie": "MeSH:D001344"
+    },
+    {
+      "term": "Brain",
+      "curie": "MeSH:D001921"
+    },
+    {
+      "term": "Cohort Studies",
+      "curie": "MeSH:D015331"
+    },
+    {
+      "term": "Apolipoprotein E4",
+      "curie": "MeSH:D053327"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Genotype",
+      "curie": "MeSH:D005838"
+    }
+  ],
+  "ng00119": [
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Longitudinal Studies",
+      "curie": "MeSH:D008137"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    }
+  ],
+  "ng00106": [
+    {
+      "term": "Aging",
+      "curie": "MeSH:D000375"
+    },
+    {
+      "term": "Dementia",
+      "curie": "MeSH:D003704"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Longitudinal Studies",
+      "curie": "MeSH:D008137"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Neuropsychological Tests",
+      "curie": "MeSH:D009483"
+    },
+    {
+      "term": "Prospective Studies",
+      "curie": "MeSH:D011446"
+    },
+    {
+      "term": "Cognition",
+      "curie": "MeSH:D003071"
+    },
+    {
+      "term": "Asian People",
+      "curie": "MeSH:D044466"
+    },
+    {
+      "term": "Genome-Wide Association Study",
+      "curie": "MeSH:D055106"
+    },
+    {
+      "term": "Genotyping Techniques",
+      "curie": "MeSH:D060005"
+    },
+    {
+      "term": "Memory, Episodic",
+      "curie": "MeSH:D061212"
+    },
+    {
+      "term": "Polymorphism, Single Nucleotide",
+      "curie": "MeSH:D020641"
+    },
+    {
+      "term": "White People",
+      "curie": "MeSH:D044465"
+    }
+  ],
+  "ng00105": [
+    {
+      "term": "Aging",
+      "curie": "MeSH:D000375"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Brain",
+      "curie": "MeSH:D001921"
+    },
+    {
+      "term": "Female",
+      "curie": "MeSH:D005260"
+    },
+    {
+      "term": "Gene Expression Profiling",
+      "curie": "MeSH:D020869"
+    },
+    {
+      "term": "Genetic Heterogeneity",
+      "curie": "MeSH:D018740"
+    },
+    {
+      "term": "Genetic Predisposition to Disease",
+      "curie": "MeSH:D020022"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Microglia",
+      "curie": "MeSH:D017628"
+    },
+    {
+      "term": "Parkinson Disease",
+      "curie": "MeSH:D010300"
+    },
+    {
+      "term": "Quantitative Trait Loci",
+      "curie": "MeSH:D040641"
+    },
+    {
+      "term": "RNA Splicing",
+      "curie": "MeSH:D012326"
+    },
+    {
+      "term": "Transcriptome",
+      "curie": "MeSH:D059467"
+    }
+  ],
+  "ng00108": [
+    {
+      "term": "Aging",
+      "curie": "MeSH:D000375"
+    },
+    {
+      "term": "Alzheimer Disease",
+      "curie": "MeSH:D000544"
+    },
+    {
+      "term": "Amyloid beta-Peptides",
+      "curie": "MeSH:D016229"
+    },
+    {
+      "term": "Brain",
+      "curie": "MeSH:D001921"
+    },
+    {
+      "term": "Disease Models, Animal",
+      "curie": "MeSH:D004195"
+    },
+    {
+      "term": "Hippocampus",
+      "curie": "MeSH:D006624"
+    },
+    {
+      "term": "Male",
+      "curie": "MeSH:D008297"
+    },
+    {
+      "term": "Microglia",
+      "curie": "MeSH:D017628"
+    },
+    {
+      "term": "Transcription, Genetic",
+      "curie": "MeSH:D014158"
+    }
+  ]
+}
